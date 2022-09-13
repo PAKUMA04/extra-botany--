@@ -355,7 +355,7 @@ botania.page.reikarlily1=I Choose You!
 botania.tagline.reikarlily=Lightning Energy
 
 botania.entry.edelweiss=エーデルワイス
-botania.page.edelweiss0=Edelweiss will swallow a snow golem or iron golem to produce mana.
+botania.page.edelweiss0=エーデルワイスはスノーゴーレムやゴーレムを飲み込んでマナに変換する。
 botania.page.edelweiss1=If you are reading this, you can read.
 botania.tagline.edelweiss=A bit cruel
 
@@ -384,6 +384,7 @@ botania.entry.manabarrel=マナバッファ
 botania.page.manabarrel0=The Mana Buffer can store as much &4Mana&0 as 64 Mana Pools. It will drain &4Mana&0 from adjacent mana pools and supply it to a Mana Pool placed on top of it.
  botania.page.manabarrel1=Un...Deux...Trois...
 botania.tagline.manabarrel=Store Mana
+
 
 botania.entry.kinggarden=王律庭
 botania.page.kinggarden0=Garden of King's Law can summon flowers which are recorded by it to give the enemy a heavy blow. Just place it on the Livingrock Pedestal, hold a flower and right-click to record. Different flowers will have different effects.
@@ -465,13 +466,14 @@ botania.page.camera0=Shameimaru's Camera strips nearby creatures of their abilit
 botania.page.camera1=スナップショット
 botania.tagline.camera=ハイ、チーズ！
 
-botania.entry.gaia3=Ritual of Gaia III
+botania.entry.gaia3=ガイアⅢの儀式
+
 botania.page.gaia30=100,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.For the Gaia Guardian III fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania or ExtraBotany. Any other blocks will be destroyed! (except if its changed in the config)
 botania.page.gaia31=2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania or ExtraBotany(except if its changed in the config). Any others will be disarmed and dropped on the ground. 3.During the fight red landmines should be avoided as they will deal massive damage to you.
 botania.page.gaia32=Natural Selection.
 botania.tagline.gaia3=It's HARDCORE
 
-botania.entry.gaia4=Ritual of Gaia IV
+botania.entry.gaia4=ガイアⅣの儀式
 botania.page.gaia40=100,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared. All liquid blocks in the arene will be destroyed.
 botania.page.gaia41=For the Gaia Guardian IV fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania. Any other blocks will be destroyed! (except if its changed in the config) 2. Equipped armor and weapons have to be from Vanilla Minecraft or Botania (except if its changed in the config). Any others will be disarmed and dropped on the ground. During the fight red landmines should be avoided as they will deal massive damage to you.
 botania.page.gaia42=Natural Selection.
@@ -487,11 +489,11 @@ botania.page.mastermanaring0=The &4Master Band of Mana&0 can store nearly a infi
 botania.page.mastermanaring1=報酬は嘘だ。
 botania.tagline.mastermanaring=不可能だ
 
-botania.entry.cocoondesire=Cocoon of Desire
+botania.entry.cocoondesire=願望の繭
 botania.page.cocoondesire0=The Cocoon of Desire will slowly evolve the rudimentary contents inside it into a creature. Giving it items via a right click or by simply dropping them on it changes the creature hatching from the Cocoon of Desire.
 botania.page.cocoondesire1=Block of Coal - Wither Skeleton. Wheat - Pig. Wool - Sheep. More are to be discovered.
-botania.page.cocoondesire2=Nerf this
-botania.tagline.cocoondesire=Incubator
+botania.page.cocoondesire2=弱体化希望
+botania.tagline.cocoondesire=孵卵器
 
 botania.entry.combatmaid=プレアデスの戦闘メイド
 botania.page.combatmaid0=An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
@@ -503,16 +505,16 @@ botania.tagline.combatmaid=オーバーロード
 
 botania.entry.cosmeticmaid=星の歌姫
 botania.page.cosmeticmaid0=An improved version of Manasteel Armor,it gives the wearer a high mana discount.
-botania.page.cosmeticmaid1=Starry Idol Headgear
-botania.page.cosmeticmaid2=Starry Idol Suit
-botania.page.cosmeticmaid3=Starry Idol Skirt
-botania.page.cosmeticmaid4=Starry Idol Boots
+botania.page.cosmeticmaid1=星の歌姫の帽子
+botania.page.cosmeticmaid2=星の歌姫の服
+botania.page.cosmeticmaid3=星の歌姫のスカート
+botania.page.cosmeticmaid4=星の歌姫のブーツ
 botania.tagline.cosmeticmaid=Miku Miku Dance
 
-botania.entry.managenerator=Flux Manafield
+botania.entry.managenerator=フラックスマナフィールド
 botania.page.managenerator0=By passing &4Forge Energy&0 through a field of natural energy, its state can be transformed from redstone based energy into &4Mana&0.<br>Simply attaching &4FE&0 transporters, will start the conversion from &4FE&0 to &4Mana&0. A Mana Spreader is needed to transfer the &4Mana&0.
-botania.page.managenerator1=Science Bitch!
-botania.tagline.managenerator=Converts Energy into Mana
+botania.page.managenerator1=科学の犬が！
+botania.tagline.managenerator=電力をマナに変換
 
 botania.entry.manadrink=マナカクテル
 botania.page.manadrink0=Hold an Empty Mana Glass Bottle and right-click a Mana Liquefaction Device with at least 100mb Fluided Mana will acquire a tasty drink.
@@ -541,7 +543,7 @@ botania.tagline.cocktail=
 
 botania.entry.infinitewine=インフィニティワイン
 botania.page.infinitewine0=Infinite Wine, that you can drink almost infinitly, it only costs mana to refill. To make one, you just need to combine a Special-made Cocktail with heroes medal.You can change the effects by crafting with other varieties of Special-made Cocktail. <br>Be carefull though, if you drink it all before it can refill, you will lose your relic and get a empty mana glass back, and you can only Restore 3 uses per minecraft day.
-botania.tagline.infinitewine=Baccano!
+botania.tagline.infinitewine=バッカーノ！
 
 botania.entry.splashgrenade=聖なる手榴弾
 botania.page.splashgrenade0=When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
