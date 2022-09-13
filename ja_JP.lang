@@ -45,8 +45,8 @@ item.extrabotany:buddhistrelics.name=全智の原点創造
 item.extrabotany:spearsubspace.name=亜空の矛
 item.extrabotany:masterhandbag.name=ミニハンドバッグ
 item.extrabotany:coregod.name=神の核
-item.extrabotany:judahoath.name=ユダの誓い
-item.extrabotany:judahoathkira.name=ユダの誓い KIRA
+item.extrabotany:judahoath.name=ユダの誓約
+item.extrabotany:judahoathkira.name=ユダの誓約 KIRA
 item.extrabotany:candy0.name=ハロウィンキャンディー Ⅰ
 item.extrabotany:candy1.name=ハロウィンキャンディー Ⅱ
 item.extrabotany:candy2.name=ハロウィンキャンディー Ⅲ
@@ -136,7 +136,7 @@ item.extrabotany:goblinslayerboots.name=ゴブリンスレイヤーのブーツ
 item.extrabotany:.name=
 
 extrabotany.armorset.cosmeticmaid.desc0=マナ消費軽減
-extrabotany.armorset.combatmaid.desc0=素手だと強大な力を発揮
+extrabotany.armorset.combatmaid.desc0=素手時に強大な力を発揮
 extrabotany.armorset.combatmaid.desc1=HP増強
 extrabotany.armorset.combatmaid.desc2=マナと調和
 extrabotany.armorset.shadowwarrior.desc0=暗い夜は、私に黒い瞳を与えたが、
@@ -221,7 +221,7 @@ tile.botania:flower.mirrowtunia.reference=鏡よ鏡
 tile.botania:flower.necrofleur.name=ネクロフルール
 tile.botania:flower.necrofleurChibi.name=ネクロフルール・プチ
 tile.botania:flower.necrofleur.reference=死ぬことが唯一の治療法
-tile.botania:flower.necrofleurChibi.reference=死ぬことが唯一の治療法
+tile.botania:flower.necrofleurChibi.reference=死こそ唯一の治療法
 tile.botania:flower..name=
 tile.botania:flower..reference=
 
@@ -230,8 +230,8 @@ tile.fluidedmana.name=流体マナ
 
 itemGroup.extrabotany=ExtraBotany
 
-extrabotany.wings0=Wings: Godness
-extrabotany.wings1=Wings: Flandre
+extrabotany.wings0=Wings: 神
+extrabotany.wings1=Wings: フランドール
 extrabotany.repairupgrade1=Repair Upgrade I
 extrabotany.repairupgrade2=Repair Upgrade II
 extrabotany.repairupgrade3=Repair Upgrade III
@@ -291,56 +291,56 @@ extrabotanymisc.support60=%s helped you
 extrabotanymisc.support61=%s helped you 
 extrabotanymisc.support62=%s helped you 
 
-botania.entry.bloodyenchantress=Bloody Enchantress
-botania.page.bloodyenchantress0=The Bloody Enchantress creates &4Mana&0 by consuming nearby creatures' life. Creatures sacrificed to the Bloody Enchantress will not produce any drops or experience.
-botania.page.bloodyenchantress2=Every bite will add a effect called Blood Temptation and overlay with higher amplifier one, the mana production will decrease according to the level of Blood Temptation, and the flower will stop working if the total level of Blood Temptation of all the creatures nearby is over a threshold.
-botania.page.bloodyenchantress1=The only cure is death.
-botania.tagline.bloodyenchantress=Burning soul
+botania.entry.bloodyenchantress=ブラッディエンチャントス
+botania.page.bloodyenchantress0=ブラッディエンチャントスは近くの生物の体力を消費して&4マナ&0を作り出す。 犠牲になった生物からはドロップ品と経験値をドロップしなくなる。
+botania.page.bloodyenchantress2=一口嚙むごとに「血の誘惑」という効果が増加し、より高いレベルに統合される。「血の誘惑」のレベルに応じてマナの生成量が減少し、近くの全ての生物の「血の誘惑」の合計のレベルが1を超えるとこの花は機能しなくなる。
+botania.page.bloodyenchantress1=死こそ唯一の治療法。
+botania.tagline.bloodyenchantress=燃える精神
 
-botania.entry.sunbless=Sunshine Lily
-botania.page.sunbless0=Like the &1Dayblooms&0 the Sunshine Lily produces &4Mana&0 from sunlight, but it is slightly more efficient. Please note that it will still decay.
-botania.page.sunbless1=Heal and heat.
-botania.tagline.sunbless=Mana from the sun
+botania.entry.sunbless=サンシャインリリー
+botania.page.sunbless0=&1デイブルーム&0と同様に、日光から&4マナ&を生産するが、少し効率がいい。受動的な花のため、枯れてしまう。
+botania.page.sunbless1=癒して温める。
+botania.tagline.sunbless=太陽からのマナ
 
-botania.entry.moonbless=Moonlight Lily
-botania.page.moonbless0=Like the &1Nightshade&0 the Moonlight Lily generates &4Mana&0 at night, but it is slightly more efficient. Please note that it will still decay.
- botania.page.moonbless1=Sowing of the fool.
- botania.tagline.moonbless=Mana from the moon
+botania.entry.moonbless=ムーンライトリリー
+botania.page.moonbless0=&1ナイトシャード&0と同様に、夜に&4マナ&を生産するが、少し効率がいい。受動的な花のため、枯れてしまう。
+ botania.page.moonbless1=愚か者の種まき。
+ botania.tagline.moonbless=月からのマナ
 
-botania.entry.omniviolet=Omniviolet
-botania.page.omniviolet0=According to a saying, knowledge is power. The Omniviolet converts Books or Written Books into &4Mana&0. To increase the amount of mana generated, Bookshelves can be placed around the Omniviolet in a similar fashion to an Enchantment Table. 
-botania.page.omniviolet1=Akashic Records.
-botania.tagline.omniviolet=Knowledge is power
+botania.entry.omniviolet=オムニバイオレット
+botania.page.omniviolet0=ことわざによれば、知識は力である。オムニバイオレットは本をマナに変換する。本棚をオムニバイオレットの周りにエンチャントテーブルと同様に設置することで、マナの生成量を増加させることができる。
+botania.page.omniviolet1=アカシックレコード。
+botania.tagline.omniviolet=知識は力なり
 
-botania.entry.stonesia=Stonesia
-botania.page.stonesia0=The Stonesia can convert stone, cobblestone or ores into &4Mana&0. Rarer ores produce more mana. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.
-botania.page.stonesia1=Diamond and Pearl.
-botania.tagline.stonesia=Rare Value
+botania.entry.stonesia=ストーンジア
+botania.page.stonesia0=ストーンジアは石、丸石、鉱石をマナに変換する。特に希少鉱石はより多くのマナを生成する。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。
+botania.page.stonesia1=ダイアモンド&パール。
+botania.tagline.stonesia=希少価値
 
-botania.entry.tinkle=Tinkle Flower
-botania.page.tinkle0=The Tinkle flower converts kinetic energy of nearby moving players into &4Mana&0. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency.
-botania.page.tinkle1=Ding dong, here I come to find you.
-botania.tagline.tinkle=Rush!Rush!Rush!
+botania.entry.tinkle=ティンクルフラワー
+botania.page.tinkle0=ティンクルフラワーは、近くのプレイヤーの運動エネルギーをマナに変換する。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。
+botania.page.tinkle1=ゴーン...ゴーン...貴方を探しに来たんだ。
+botania.tagline.tinkle=走れ！走れ！走れ！
 
-botania.entry.bellflower=Bell Flower
-botania.page.bellflower0=When placed in the open, the Bell Flower creates &4Mana&0 from wind. The higher it is, the more mana it produces. A Livingrock Pedestal nearby with a Nature Orb in it can increase its mana generation efficiency. Since it is a passive flower, it will decay.
-botania.page.bellflower1=Only the storms can knock down the trees.
-botania.tagline.bellflower=Mana from wind
+botania.entry.bellflower=ベルフラワー
+botania.page.bellflower0=ベルフラワーは屋外に植えると、風からマナを生成し、高度が高いほど生成量は増える。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。受動的な花のため、枯れてしまう。
+botania.page.bellflower1=木を倒せるのは嵐だけだ。
+botania.tagline.bellflower=風からのマナ
 
-botania.entry.annoyingflower=Annoying Flower
-botania.page.annoyingflower0=The Annoying Flower can fish in nearby Livingrock Pedestal filled with water. For that process it will use mana. Feeding Fried Chicken Legs to it will significantly increase the efficiency and the chance of getting treasure.
+botania.entry.annoyingflower=ウザい花
+botania.page.annoyingflower0=ウザい花は付近の水で満たされたリビングロックの台座から、マナを消費して魚を釣り上げる。フライドキチンを与えると効率が大幅に上昇し、宝を釣り上げる確率が増加する。
 botania.page.annoyingflower1=RK800.
-botania.page.annoyingflower2=Cooked Chicken can be fried by soaking it in &4Mana&0. Fried Chicken Legs restore more hunger and give saturation.
-botania.page.annoyingflower3=Neither a angel or a devil
-botania.tagline.annoyingflower=Time to fish.
+botania.page.annoyingflower2=焼き鳥をマナに浸すと、揚げることができる。フライドキチンは焼き鳥より多くの満腹度を回復する。
+botania.page.annoyingflower3=天使でも悪魔でもない
+botania.tagline.annoyingflower=時は魚なり
 
-botania.entry.manalinkium=Manalinkium
-botania.page.manalinkium0=The Manalinkium can wirelessly transfer &4Mana&0 to a Mana Pool. Right-clicking it with a Position Reader that has the position of a Mana Pool stored will start the process.
-botania.page.manalinkium1=This is too real.
-botania.page.manalinkium2=A multiblock structure is needed to function.
-botania.page.manalinkium3=The Manalinkium has to be placed one above the empty middle block.
+botania.entry.manalinkium=マナリンキウム
+botania.page.manalinkium0=マナリンキウムはマナを無線でマナをマナプールに送信する。マナプールの座標が記録されたポジションリーダーを持って右クリックすることで送信が開始される。
+botania.page.manalinkium1=これは現実的すぎる。
+botania.page.manalinkium2=機能するにはマルチブロック構造が必要となる。
+botania.page.manalinkium3=マナリンキウムは中央の土ブロックに植えなければならない。
 botania.page.manalinkium4=
-botania.tagline.manalinkium=Wireless Transmission
+botania.tagline.manalinkium=無線送信
 
 botania.entry.stardustlotus=Stardust Lotus
 botania.page.stardustlotus0=The Stardust Lotus uses &4Mana&0 to create a portal that teleports creatures to a specified location. Right-clicking it with a Position Reader that has a position stored will transfer that position to the Stardust Lotus. Throwing a paper onto the Stardust Lotus starts the portal creation. A circle of sparkles around the flower shows that it is ready.
