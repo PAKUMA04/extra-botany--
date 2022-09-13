@@ -128,7 +128,7 @@ item.extrabotany:shadowwarriorhelm.name=影武者の兜
 item.extrabotany:shadowwarriorchest.name=影武者の鎧
 item.extrabotany:shadowwarriorlegs.name=影武者の袴
 item.extrabotany:shadowwarriorboots.name=影武者の草鞋
-item.extrabotany:shadowkatana.name=忍刀
+item.extrabotany:shadowkatana.name=影武者の刀
 item.extrabotany:goblinslayerhelm.name=ゴブリンスレイヤーのヘルメット
 item.extrabotany:goblinslayerchest.name=ゴブリンスレイヤーのチェストプレート
 item.extrabotany:goblinslayerlegs.name=ゴブリンスレイヤーのレギンス
@@ -381,39 +381,39 @@ botania.page.necrofleur0=Necrofleur will only target those non-player creatures 
 botania.page.necrofleur1=Meteor Strike
 botania.tagline.necrofleur=I will mourn your death
 
-botania.entry.manabarrel=Mana Buffer
+botania.entry.manabarrel=マナバッファ
 botania.page.manabarrel0=The Mana Buffer can store as much &4Mana&0 as 64 Mana Pools. It will drain &4Mana&0 from adjacent mana pools and supply it to a Mana Pool placed on top of it.
  botania.page.manabarrel1=Un...Deux...Trois...
 botania.tagline.manabarrel=Store Mana
 
-botania.entry.kinggarden=Garden of King's Law
+botania.entry.kinggarden=王律庭
 botania.page.kinggarden0=Garden of King's Law can summon flowers which are recorded by it to give the enemy a heavy blow. Just place it on the Livingrock Pedestal, hold a flower and right-click to record. Different flowers will have different effects.
 botania.page.kinggarden1=For example, Blood Enchantress will deal high magic damage, Sunshine Lily will set enemies on fire. But not every type of flower can be recorded.
 botania.page.kinggarden2=Enuma Elish.
 botania.page.kinggarden3=Sha Nagba Imuru.
 botania.tagline.kinggarden=Ultimate Flower Work
 
-botania.entry.nightmarefuel=Nightmare Fuel
+botania.entry.nightmarefuel=悪夢の燃料
 botania.page.nightmarefuel0=Nightmare Fuel is an advanced fuel created by Mana Infusion. It seems to be edible.
 botania.page.nightmarefuel1=The brain trembles.
 botania.tagline.nightmarefuel=
 
-botania.entry.spiritfuel=Spirit Fuel
-botania.page.spiritfuel0=Spirit Fuel is an edible material which is obtained by eating Nightmare Fuel. Holding a Lexica Botania and right-clicking a Livingrock Pedestal with Spirit Fuel in it will unlock new knowledge. If you put the nightmare fuel in the livingrock pedestal and let it shone for 5 minutes, you can also get the Spirit Fuel.
+botania.entry.spiritfuel=魂の燃料
+botania.page.spiritfuel0=魂の燃料は悪夢の燃料を食べると入手できる食用素材で、リビングロックの台座に魂の燃料を配置し、ボタニア植物辞典で右クリックすることで新たな知識が解放される。リビングロックの台座に悪夢の燃料を配置し5分間光らせることで入手できる。
 botania.page.spiritfuel1=A believing heart is your magic.
-botania.tagline.spiritfuel=Hive mind
+botania.tagline.spiritfuel=集合精神
 
-botania.entry.manareader=Mana Reader
-botania.page.manareader0=Right-clicking a Mana Pool with the Mana Reader displays the amount of &4Mana&0 stored. 
-botania.page.manareader1=Rion.
-botania.tagline.manareader=Display Mana
+botania.entry.manareader=マナリーダー
+botania.page.manareader0=マナプールを右クリックすると&4マナ&0の貯蔵量を表示する。
+botania.page.manareader1=リオン。
+botania.tagline.manareader=マナを表示
 
-botania.entry.binder=Position Reader
-botania.page.binder0=Sneak right-clicking a block with the Position Reader stores its position. Right-clicking a block or flower that can store a position will transfer the stored position onto it.
-botania.page.binder1=The greatest inventions of the century
-botania.tagline.binder=Positional Advantage
+botania.entry.binder=ポジションリーダー
+botania.page.binder0=スニークしながらブロックを右クリックすることで、座標を記録する。座標を記録できる他の花やブロックを右クリックすることで、記録した座標を転送する。
+botania.page.binder1=今世紀最大の発明
+botania.tagline.binder=地の利
 
-botania.entry.pedestal=Livingrock Pedestal
+botania.entry.pedestal=リビングロックの台座
 botania.page.pedestal0=Right-click to place items on the Livingrock Pedestal. A hammer can be used to forge items on the Livingrock Pedestal.
 botania.page.pedestal1=What is evil? Everything that comes from weakness is evil.
 botania.page.pedestal2=Hidden is a kind of outstanding talent.
