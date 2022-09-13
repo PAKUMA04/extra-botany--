@@ -291,8 +291,8 @@ extrabotanymisc.support61=%s helped you
 extrabotanymisc.support62=%s helped you 
 
 botania.entry.bloodyenchantress=ブラッディエンチャントス
-botania.page.bloodyenchantress0=ブラッディエンチャントスは近くの生物の体力を消費して&4マナ&0を作り出す。 犠牲になった生物からはドロップ品と経験値をドロップしなくなる。
-botania.page.bloodyenchantress2=一口?むごとに「血の誘惑」という効果が増加し、より高いレベルに統合される。「血の誘惑」のレベルに応じてマナの生成量が減少し、近くの全ての生物の「血の誘惑」の合計のレベルが1を超えるとこの花は機能しなくなる。
+botania.page.bloodyenchantress0=ブラッディエンチャントス<BR>は近くの生物の体力を消費<BR>して&4マナ&0を作り出す。<BR>犠牲になった生物からはド<BR>ロップ品と経験値をドロッ<BR>プしなくなる。
+botania.page.bloodyenchantress2=体力を消費するごとに「血<BR>の誘惑」という効果が増加<BR>し、より高いレベルに統合<BR>される。<BR>「血の誘惑」のレベルに応<BR>じてマナの生成量が減少し、近くの全ての生物の「血の<BR>誘惑」の合計のレベルが1<BR>を超えるとこの花は機能し<BR>なくなる。
 botania.page.bloodyenchantress1=死こそ唯一の治療法。
 botania.tagline.bloodyenchantress=燃える精神
 
@@ -312,13 +312,13 @@ botania.page.omniviolet1=アカシックレコード。
 botania.tagline.omniviolet=知識は力なり
 
 botania.entry.stonesia=ストーンジア
-botania.page.stonesia0=ストーンジアは石、丸石、鉱石をマナに変換する。特に希少鉱石はより多くのマナを生成する。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。
+botania.page.stonesia0=ストーンジアは石、丸石、<BR>鉱石をマナに変換する。特<BR>に希少鉱石はより多くのマ<BR>ナを生成する。<BR>付近にリビングロックの台<BR>座を設置し、ネイチャーオ<BR>ーブを台座に配置すること<BR>で、マナの生成量を増加さ<BR>せることができる。
 botania.page.stonesia1=ダイアモンド&パール。
 botania.tagline.stonesia=希少価値
 
 botania.entry.tinkle=ティンクルフラワー
-botania.page.tinkle0=ティンクルフラワーは、近くのプレイヤーの運動エネルギーをマナに変換する。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。
-botania.page.tinkle1=ゴーン...ゴーン...貴方を探しに来たんだ。
+botania.page.tinkle0=ティンクルフラワーは、付<BR>近のプレイヤーの運動エネ<BR>ルギーをマナに変換する。<BR>付近にリビングロックの台<BR>座を設置し、ネイチャーオ<BR>ーブを台座に配置すること<BR>で、マナの生成量を増加さ<BR>せることができる。
+botania.page.tinkle1=鐘の音と共に...貴方を探しに来たんだ。
 botania.tagline.tinkle=走れ！走れ！走れ！
 
 botania.entry.bellflower=ベルフラワー
@@ -327,21 +327,21 @@ botania.page.bellflower1=木を倒せるのは嵐だけだ。
 botania.tagline.bellflower=風からのマナ
 
 botania.entry.annoyingflower=ウザい花
-botania.page.annoyingflower0=ウザい花は付近の水で満たされたリビングロックの台座から、マナを消費して魚を釣り上げる。フライドキチンを与えると効率が大幅に上昇し、宝を釣り上げる確率が増加する。
+botania.page.annoyingflower0=ウザい花は付近の水で満た<BR>されたリビングロックの台<BR>座から、マナを消費して魚<BR>を釣り上げる。<BR>フライドキチンを与えると<BR>効率が大幅に上昇し、宝を<BR>釣り上げる確率が増加する。
 botania.page.annoyingflower1=RK800.
-botania.page.annoyingflower2=焼き鳥をマナに浸すと、揚げることができる。フライドキチンは焼き鳥より多くの満腹度を回復する。
+botania.page.annoyingflower2=焼き鳥をマナに浸すと、揚<BR>げることができる。フライ<BR>ドキチンは焼き鳥より多く<BR>の満腹度を回復する。
 botania.page.annoyingflower3=天使でも悪魔でもない
 botania.tagline.annoyingflower=時は魚なり
 
 botania.entry.manalinkium=マナリンキウム
-botania.page.manalinkium0=マナリンキウムはマナを無線でマナをマナプールに送信する。マナプールの座標が記録されたポジションリーダーを持って右クリックすることで送信が開始される。
+botania.page.manalinkium0=マナリンキウムはマナを無<BR>線でマナをマナプールに送<BR>信する。<BR>マナプールの座標が記録さ<BR>れたポジションリーダーを<BR>持って右クリックすること<BR>で送信が開始される。
 botania.page.manalinkium1=これは現実的すぎる。
-botania.page.manalinkium2=機能するにはマルチブロック構造が必要となる。
-botania.page.manalinkium3=マナリンキウムは中央の土ブロックに植えなければならない。
+botania.page.manalinkium2=この花を機能させるには構<BR>造物が必要となる。
+botania.page.manalinkium3=構造物の中央に植える。
 botania.page.manalinkium4=
 botania.tagline.manalinkium=無線送信
 
-botania.entry.stardustlotus=Stardust Lotus
+botania.entry.stardustlotus=スターダストロータス
 botania.page.stardustlotus0=The Stardust Lotus uses &4Mana&0 to create a portal that teleports creatures to a specified location. Right-clicking it with a Position Reader that has a position stored will transfer that position to the Stardust Lotus. Throwing a paper onto the Stardust Lotus starts the portal creation. A circle of sparkles around the flower shows that it is ready.
 botania.page.stardustlotus1=Better than wolves.
 botania.page.stardustlotus2=A multiblock structure is needed to function.
@@ -354,7 +354,7 @@ botania.page.reikarlily0=The Reikar Lily turns the tremendous energy of lightnin
 botania.page.reikarlily1=I Choose You!
 botania.tagline.reikarlily=Lightning Energy
 
-botania.entry.edelweiss=Edelweiss
+botania.entry.edelweiss=エーデルワイス
 botania.page.edelweiss0=Edelweiss will swallow a snow golem or iron golem to produce mana.
 botania.page.edelweiss1=If you are reading this, you can read.
 botania.tagline.edelweiss=A bit cruel
