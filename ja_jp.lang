@@ -422,15 +422,15 @@ botania.page.pedestal5=Leave all hope, you who enter.
 botania.page.pedestal6=Man is condemned to be free.
 botania.tagline.pedestal=Display items
 
-botania.entry.froststar=Frost Ring
+botania.entry.froststar=霜の指輪
 botania.page.froststar0=The &1Frost Ring&0 freezes large areas of water and lava. It also applies slowness creatures looked at by the wearer.
 botania.page.froststar1=I am the frozen heart of the Scourge!
-botania.tagline.froststar=Freeze, don't move!
+botania.tagline.froststar=指一つ動かすなよ
 
-botania.entry.deathring=Curse Ring
+botania.entry.deathring=呪いの指輪
 botania.page.deathring0=The &1Curse Ring&0 applies the Wither and Unluck effect on creatures looked at by the wearer at the cost of some &4Mana&0.
 botania.page.deathring1=Do not fear power... fear those who wield it!
-botania.tagline.deathring=The eternal hunt has begun.
+botania.tagline.deathring=永遠の狩りが始まった。
 
 botania.entry.hammer=ハンマー
 botania.page.hammer0=ハンマーはリビングロックの台座に対して使用する。They can also be used as pickaxes and can use &4Mana&0 instead of durability. If you put a hammer in a dispenser and give a redstone signal, it will automatically forge the item in the Livingrock Pedestal ahead.
@@ -482,10 +482,10 @@ botania.page.relicshield0=The &4Achilled Shield&0 can reflect damage and most pr
 botania.page.relicshield1=私は人間を食い止める。
 botania.tagline.relicshield=ATフィールド
 
-botania.entry.mastermanaring=Master Band of Mana
+botania.entry.mastermanaring=極めしマナバンド
 botania.page.mastermanaring0=The &4Master Band of Mana&0 can store nearly a infinite amount of &4Mana&0.
-botania.page.mastermanaring1=あれは嘘だ。
-botania.tagline.mastermanaring=IMPOSSIBLE
+botania.page.mastermanaring1=報酬は嘘だ。
+botania.tagline.mastermanaring=不可能だ
 
 botania.entry.cocoondesire=Cocoon of Desire
 botania.page.cocoondesire0=The Cocoon of Desire will slowly evolve the rudimentary contents inside it into a creature. Giving it items via a right click or by simply dropping them on it changes the creature hatching from the Cocoon of Desire.
@@ -514,12 +514,12 @@ botania.page.managenerator0=By passing &4Forge Energy&0 through a field of natur
 botania.page.managenerator1=Science Bitch!
 botania.tagline.managenerator=Converts Energy into Mana
 
-botania.entry.manadrink=Mana Cocktail
+botania.entry.manadrink=マナカクテル
 botania.page.manadrink0=Hold an Empty Mana Glass Bottle and right-click a Mana Liquefaction Device with at least 100mb Fluided Mana will acquire a tasty drink.
 botania.page.manadrink1=Cheers!
 botania.tagline.manadrink=Tasty
 
-botania.entry.manaliquefaction=Mana Liquefaction Device
+botania.entry.manaliquefaction=マナ溶解器
 botania.page.manaliquefaction0=Mana Liquefaction Device will drain &4Fluided Mana&0 from liquid tank nearby and transfer into Mana. <br>If giving a redstone signal, it will drain mana, transform it into Fluided Mana and output to nearby liquid tank.
 botania.page.manaliquefaction1=Non-Science
 botania.page.manaliquefaction2=
