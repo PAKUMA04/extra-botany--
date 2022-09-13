@@ -433,8 +433,8 @@ botania.page.deathring0=The &1Curse Ring&0 applies the Wither and Unluck effect 
 botania.page.deathring1=Do not fear power... fear those who wield it!
 botania.tagline.deathring=The eternal hunt has begun.
 
-botania.entry.hammer=Hammer
-botania.page.hammer0=Hammers are used for forging on Livingrock Pedestals. They can also be used as pickaxes and can use &4Mana&0 instead of durability. If you put a hammer in a dispenser and give a redstone signal, it will automatically forge the item in the Livingrock Pedestal ahead.
+botania.entry.hammer=ハンマー
+botania.page.hammer0=ハンマーはリビングロックの台座に対して使用する。They can also be used as pickaxes and can use &4Mana&0 instead of durability. If you put a hammer in a dispenser and give a redstone signal, it will automatically forge the item in the Livingrock Pedestal ahead.
 botania.page.hammer1=Encountered in my dream.
 botania.page.hammer2=That would be very nice.
 botania.page.hammer3=I am not afraid of anything anymore.
@@ -442,17 +442,17 @@ botania.page.hammer4=The Ultimate Hammer is a better version of the Terrasteel H
 botania.page.hammer5=There is no regret.
 botania.tagline.hammer=
 
-botania.entry.goldpotato=Gilded Potato
+botania.entry.goldpotato=金のジャガイモ
 botania.page.goldpotato0=The Gilded Potato may have other uses.
 botania.page.goldpotato1=There is a miracle, something magical.
-botania.tagline.goldpotato=Golden Legendary
+botania.tagline.goldpotato=黄金の伝説
 
-botania.entry.failnaught=Failnaught
+botania.entry.failnaught=フェイルノート
 botania.page.failnaught0=The Failnaught uses &4Mana&0 to shoot magic arrows which pierce through enemies and deal damage to the creatures in the area. The longer you draw the bow, the more damage it will deal.
 botania.page.failnaught1=A hundred shots, a hundred bullseyes.
 botania.tagline.failnaught=ARTIFACT.
 
-botania.entry.natureorb=Nature Orb
+botania.entry.natureorb=ネイチャーオーブ
 botania.page.natureorb0=The Nature Orb can store &1Natural Breath&0, a magical power which protects the carrier. To collect &1Natural Breath&0 it needs to be placed on a Livingrock Pedestal and a ritualistic multiblock structure around Livingrock Pedestal is needed. Additionally the Nature Orb grants boosts to certain nearby flowers.
 botania.page.natureorb5=Blessing of Mana will provide you with mana, Blessing of Regeneration will speed up your regeneration and Blessing of Senro will drive away bad effects on you.
 botania.page.natureorb1=Not a Blood Orb.
@@ -461,10 +461,10 @@ botania.page.natureorb3=Rank II Ritual.
 botania.page.natureorb4=Build a multiblock structure and place it on the Livingrock Pedestal to collect &1Natural Breath&0.
 botania.tagline.natureorb=Natural Balance
 
-botania.entry.camera=Shameimaru's Camera
+botania.entry.camera=射命丸のカメラ
 botania.page.camera0=Shameimaru's Camera strips nearby creatures of their abilities. Projectiles in sight will vanish. Creatures affected by this will return to normal after a period of time. The camera can affect bosses for a very short period.
-botania.page.camera1=Snapshot
-botania.tagline.camera=Say "cheese"!
+botania.page.camera1=スナップショット
+botania.tagline.camera=ハイ、チーズ！
 
 botania.entry.gaia3=Ritual of Gaia III
 botania.page.gaia30=100,000 Natural breath from a Nature Orb can be used to summon an even more powerful Gaia Guardian. Its great powers and new abilties should be feared.For the Gaia Guardian III fight, you need to learn some new rules. 1. Blocks in the Gaia Guardian arena have to belong to Vanilla Minecraft or Botania or ExtraBotany. Any other blocks will be destroyed! (except if its changed in the config)
@@ -478,14 +478,14 @@ botania.page.gaia41=For the Gaia Guardian IV fight, you need to learn some new r
 botania.page.gaia42=Natural Selection.
 botania.tagline.gaia4=It's HARDCORE
 
-botania.entry.relicshield=Achilled Shield
+botania.entry.relicshield=アキレウスの盾
 botania.page.relicshield0=The &4Achilled Shield&0 can reflect damage and most projectiles. Colliding with enemies while blocking will deal damage to them. Sneak and right-click with over 12 absorption and you will release its true power. To maintain its new form will cost you 2 absoprtion every second.
-botania.page.relicshield1=I will stop humans
-botania.tagline.relicshield=AT Field
+botania.page.relicshield1=私は人間を食い止める。
+botania.tagline.relicshield=ATフィールド
 
 botania.entry.mastermanaring=Master Band of Mana
 botania.page.mastermanaring0=The &4Master Band of Mana&0 can store nearly a infinite amount of &4Mana&0.
-botania.page.mastermanaring1=The Cake is a Lie.
+botania.page.mastermanaring1=あれは嘘だ。
 botania.tagline.mastermanaring=IMPOSSIBLE
 
 botania.entry.cocoondesire=Cocoon of Desire
@@ -494,15 +494,15 @@ botania.page.cocoondesire1=Block of Coal - Wither Skeleton. Wheat - Pig. Wool - 
 botania.page.cocoondesire2=Nerf this
 botania.tagline.cocoondesire=Incubator
 
-botania.entry.combatmaid=Pleiades Combat Maid
+botania.entry.combatmaid=プレアデスの戦闘メイド
 botania.page.combatmaid0=An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
 botania.page.combatmaid1=Pleiades Combat Maid Headgear
 botania.page.combatmaid2=Pleiades Combat Maid Suit
 botania.page.combatmaid3=Pleiades Combat Maid Skirt
 botania.page.combatmaid4=Pleiades Combat Maid Boots
-botania.tagline.combatmaid=Overlord
+botania.tagline.combatmaid=オーバーロード
 
-botania.entry.cosmeticmaid=Starry Idol
+botania.entry.cosmeticmaid=星の歌姫
 botania.page.cosmeticmaid0=An improved version of Manasteel Armor,it gives the wearer a high mana discount.
 botania.page.cosmeticmaid1=Starry Idol Headgear
 botania.page.cosmeticmaid2=Starry Idol Suit
@@ -544,9 +544,9 @@ botania.entry.infinitewine=Infinite Wine
 botania.page.infinitewine0=Infinite Wine, that you can drink almost infinitly, it only costs mana to refill. To make one, you just need to combine a Special-made Cocktail with heroes medal.You can change the effects by crafting with other varieties of Special-made Cocktail. <br>Be carefull though, if you drink it all before it can refill, you will lose your relic and get a empty mana glass back, and you can only Restore 3 uses per minecraft day.
 botania.tagline.infinitewine=Baccano!
 
-botania.entry.splashgrenade=Holy Grenade
+botania.entry.splashgrenade=聖なる手榴弾
 botania.page.splashgrenade0=When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
-botania.tagline.splashgrenade=Art is explosion
+botania.tagline.splashgrenade=芸術は爆発だ。
 
 botania.entry.shadowwarrior=Shadow Warrior
 botania.page.shadowwarrior0=With the magic of Gilded Mashed Potato, we can use Nightmare Fuel and a Elementium Ingot to make Shadowium. It's a very special kind of material.
@@ -559,17 +559,17 @@ botania.page.shadowwarrior6=Shadow Warrior Boots
 botania.page.shadowwarrior7=Shadow Katana
 botania.tagline.shadowwarrior=Not A Vampire
 
-botania.entry.elfjar=Livingrock Barrel
+botania.entry.elfjar=リビングロックの台座
 botania.page.elfjar0=A Livingrock Barrel can simply contain 16 buckets of liquid. It will also supply water to the Altar next to it if it has any.
 botania.page.elfjar1=Minecraft is too easy.
 botania.tagline.elfjar=Simple
 
-botania.entry.supercrown=Super Crown
+botania.entry.supercrown=スーパークラウン
 botania.page.supercrown0=When you equip the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce damage you take by 2.
-botania.page.supercrown1=You are not Toadette.
-botania.tagline.supercrown=Cat Mario
+botania.page.supercrown1=お前はキノピコじゃない。
+botania.tagline.supercrown=ネコマリオ
 
-botania.entry.puredaisypendant=Pure Daisy Pendant
+botania.entry.puredaisypendant=ピュアデイジーのペンダント
 botania.page.puredaisypendant0=By holding a Pure Daisy Pendant and right-clicking a block, you can instanly transform blocks like a pure daisy, at the cost of a little mana. After 64 uses, it will cool down for 2.5min, and it only cools down when it is equipped.
 botania.page.puredaisypendant1=My beauty is in position.
 botania.tagline.puredaisypendant=Now You See Me, Now You Don't
@@ -578,18 +578,18 @@ botania.entry.buddhistrelics=Origin Creation - Omniscience
 botania.page.buddhistrelics0=Origin Creation - The Omniscience relic can simulate some of the Relics by sneak and right-clicking to switch its form. Keeping other forms will cost &4Mana&0.
 botania.tagline.buddhistrelics=java.lang.NullPointerException
 
-botania.entry.spearsubspace=Spear of Subspace
+botania.entry.spearsubspace=亜空の矛
 botania.page.spearsubspace0=Using the Spear of Subspace will summon energies from subspace to attack enemies.
 botania.page.spearsubspace1=
-botania.page.spearsubspace3=Orichalcos Ingot
+botania.page.spearsubspace3=オリハルコンインゴット
 botania.tagline.spearsubspace=
 
-botania.entry.godcore=Core of God
+botania.entry.godcore=神の心
 botania.page.godcore0=A upgrade to the Flügel tiara, the Core of God alows infinite flight at the cost of &4Mana&0. The Core of God also gives a slight strength boost and provides faster flight than the tiara
 botania.page.godcore1=
 botania.tagline.godcore=
 
-botania.entry.parkour=Ring of Parkour
+botania.entry.parkour=パルクールの指輪
 botania.page.parkour0=Ring of Wall-Run will enable you to climb any wall you want, and Ring of Wall-Jump enables you to "jump" on the wall at most 5 times until you reach the ground.
 botania.page.parkour1=
 botania.page.parkour2=
@@ -597,17 +597,17 @@ botania.page.parkour3=While Ring of Parkour combines both.
 botania.page.parkour4=
 botania.tagline.parkour=
 
-botania.entry.elvenking=Ring of Elven King
+botania.entry.elvenking=エルフの王の指輪
 botania.page.elvenking0=Ring of Elven King can perform three common baubles' abilities. Just carry a Bauble Case and put the bauble you want in the first three slots. Not all the baubles can be simulated.
 botania.page.elvenking1=
 botania.tagline.elvenking=
 
-botania.entry.walkingcane=Walking Cane
+botania.entry.walkingcane=ウォーキングステッキ
 botania.page.walkingcane0=Walking Cane can increase one's speed when he is holding it. What's more, you can right-click to dash a long distance, which costs just a little mana.
 botania.page.walkingcane1=
 botania.tagline.walkingcane=
 
-botania.entry.allforone=ALL FOR ONE
+botania.entry.allforone=オール・フォー・ワン
 botania.page.allforone0=As the upgraded version of Elven King, ALL FOR ONE can perform all the baubles' abilities in the Bauble Case.
 botania.page.allforone1=
 botania.tagline.allforone=
@@ -617,12 +617,12 @@ botania.page.godweave0=Das Rheingold can empty the binding of a relic, just craf
 botania.page.godweave1=
 botania.tagline.godweave=
 
-botania.entry.ticket=Challenge Ticket
+botania.entry.ticket=チャレンジチケット
 botania.page.ticket0=Challenge Ticket can be used as a one-shot thing to summon Gaia Guardian III. Like how you used a gaia ingot to summon Gaia Guardian II.
 botania.page.ticket1=
 botania.tagline.ticket=
 
-botania.entry.goblinslayer=Goblin Slayer Armor
+botania.entry.goblinslayer=ゴブリンスレイヤーの鎧
 botania.page.goblinslayer0=Photonium is the opposite side of Shadowium.
 botania.page.goblinslayer1=
 botania.page.goblinslayer2=It can be used to make Goblin Slayer Armor, which gives powers  to the player during day time, enabling you to regenerate more quickly and deal extra damage to non-undead creatures.
@@ -632,7 +632,7 @@ botania.page.goblinslayer5=Goblin Slayer Leggings
 botania.page.goblinslayer6=Goblin Slayer Boots
 botania.tagline.goblinslayer=
 
-botania.entry.lensextra=New Mana Lens
+botania.entry.lensextra=新たなマナレンズ
 botania.page.lensextra0=Mana Lens: Push will enable Mana Burst to force the first entity it collide to move with it.
 botania.page.lensextra1=Push
 botania.page.lensextra2=Mana Lens: Smelt is like a furnace, it will enable a Mana Burst to smelt the block it collides with.
@@ -643,17 +643,17 @@ botania.page.lensextra6=Mana Lens: Potion will add potion effects to the entity 
 botania.page.lensextra7=Potion
 botania.page.lensextra8=Mana Lens: Cloud will create a potion cloud when the Mana Burst collide with entity.
 botania.page.lensextra9=Cloud
-botania.page.lensextra10=Mana Lens: Track will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
-botania.page.lensextra11=Track
+botania.page.lensextra10=マナレンズ: 追跡 will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
+botania.page.lensextra11=追跡
 botania.tagline.lensextra=
 
-botania.entry.judahoath=Judah Oath
+botania.entry.judahoath=ユダの誓約
 botania.page.judahoath0=The Judah Oath, at the cost of some mana, will imprison creatures in its range and shoot divine spears at them.
 botania.page.judahoath1=Judah Oath
 botania.page.judahoath2=Judah Oath KIRA
 botania.tagline.judahoath=
 
-botania.entry.bottledflame=Bottled Flame
+botania.entry.bottledflame=瓶詰めの炎
 botania.page.bottledflame0= Equiping a Bottled flame and having torches in your inventory will cause torches to be placed down in dark areas. Torch placement is the block that is nearest the player.
 botania.page.bottledflame1=Bottled Flame
 botania.tagline.bottledflame=
@@ -725,7 +725,7 @@ botania.page.magicfinger0=Right-Clicking a regular mana pool with a Magic Finger
 botania.page.magicfinger1=
 botania.tagline.magicfinger=
 
-botania.entry.manadriverring=Ring of Mana Drive
+botania.entry.manadriverring=悪魔の指輪
 botania.page.manadriverring0=After equipping Ring of Mana Drive, your mana will spread into air, supplying the functional flowers nearby.
 botania.page.manadriverring1=
 botania.tagline.manadriverring=
