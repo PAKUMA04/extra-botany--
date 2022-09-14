@@ -355,9 +355,9 @@ botania.page.reikarlily1=I Choose You!
 botania.tagline.reikarlily=Lightning Energy
 
 botania.entry.edelweiss=エーデルワイス
-botania.page.edelweiss0=エーデルワイスはスノーゴーレムやゴーレムを飲み込んでマナに変換する。
-botania.page.edelweiss1=If you are reading this, you can read.
-botania.tagline.edelweiss=A bit cruel
+botania.page.edelweiss0=エーデルワイスはスノーゴ<BR>ーレムやゴーレムを飲み込<BR>んでマナに変換する。
+botania.page.edelweiss1=もしこれを読んでいるなら、読み直して。
+botania.tagline.edelweiss=ちょっと残酷
 
 botania.entry.geminiorchid=Gemini Orchid
 botania.page.geminiorchid0=A &1Gemini Orchid&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
@@ -382,8 +382,8 @@ botania.tagline.necrofleur=I will mourn your death
 
 botania.entry.manabarrel=マナバッファ
 botania.page.manabarrel0=The Mana Buffer can store as much &4Mana&0 as 64 Mana Pools. It will drain &4Mana&0 from adjacent mana pools and supply it to a Mana Pool placed on top of it.
- botania.page.manabarrel1=Un...Deux...Trois...
-botania.tagline.manabarrel=Store Mana
+ botania.page.manabarrel1=ひとつ...ふたつ...みっつ...
+botania.tagline.manabarrel=マナ貯蔵
 
 
 botania.entry.kinggarden=王律庭
@@ -395,12 +395,12 @@ botania.tagline.kinggarden=Ultimate Flower Work
 
 botania.entry.nightmarefuel=悪夢の燃料
 botania.page.nightmarefuel0=Nightmare Fuel is an advanced fuel created by Mana Infusion. It seems to be edible.
-botania.page.nightmarefuel1=The brain trembles.
+botania.page.nightmarefuel1=脳が震える。
 botania.tagline.nightmarefuel=
 
 botania.entry.spiritfuel=魂の燃料
 botania.page.spiritfuel0=魂の燃料は悪夢の燃料を食べると入手できる食用素材で、リビングロックの台座に魂の燃料を配置し、ボタニア植物辞典で右クリックすることで新たな知識が解放される。リビングロックの台座に悪夢の燃料を配置し5分間光らせることで入手できる。
-botania.page.spiritfuel1=A believing heart is your magic.
+botania.page.spiritfuel1=信じることが、貴方の魔法になる。
 botania.tagline.spiritfuel=集合精神
 
 botania.entry.manareader=マナリーダー
@@ -425,7 +425,7 @@ botania.tagline.pedestal=Display items
 
 botania.entry.froststar=霜の指輪
 botania.page.froststar0=The &1Frost Ring&0 freezes large areas of water and lava. It also applies slowness creatures looked at by the wearer.
-botania.page.froststar1=I am the frozen heart of the Scourge!
+botania.page.froststar1=私は祟りの凍てつく心だ！
 botania.tagline.froststar=指一つ動かすなよ
 
 botania.entry.deathring=呪いの指輪
@@ -434,12 +434,12 @@ botania.page.deathring1=Do not fear power... fear those who wield it!
 botania.tagline.deathring=永遠の狩りが始まった。
 
 botania.entry.hammer=ハンマー
-botania.page.hammer0=ハンマーはリビングロックの台座に対して使用する。They can also be used as pickaxes and can use &4Mana&0 instead of durability. If you put a hammer in a dispenser and give a redstone signal, it will automatically forge the item in the Livingrock Pedestal ahead.
-botania.page.hammer1=Encountered in my dream.
-botania.page.hammer2=That would be very nice.
-botania.page.hammer3=I am not afraid of anything anymore.
-botania.page.hammer4=The Ultimate Hammer is a better version of the Terrasteel Hammer which can be upgraded. Place it in a Livingrock Pedestal and to apply upgrades. Gilded Mashed Potato - Repair Upgrade. Elementium Sword - Sharpness Upgrade. Terrasteel Hammer - Range Upgrade.
-botania.page.hammer5=There is no regret.
+botania.page.hammer0=ハンマーはリビングロックの<BR>台座に対して使用する。<BR>これらはツルハシのように<BR>使うことができ、&4マナ&0を消<BR>費して耐久値を回復するこ<BR>とができる。<BR>ハンマーをディスペンサー<BR>に格納し、レッドストーン<BR>信号を与えることで自動で<BR>リビングロックの台座に配<BR>置されたアイテムを加工さ<BR>せることができる。
+botania.page.hammer1=夢の中の中で逢った、ような...
+botania.page.hammer2=それはとっても嬉しいなって。
+botania.page.hammer3=もう、何も恐くない。
+botania.page.hammer4=アルティメットハンマーは、テラスチールのハンマーの改良版で、アップグレードすることができる。<BR>Place it in a Livingrock Pedestal and to apply upgrades. Gilded Mashed Potato - Repair Upgrade. Elementium Sword - Sharpness Upgrade. Terrasteel Hammer - Range Upgrade.
+botania.page.hammer5=後悔なんて、あるわけない。
 botania.tagline.hammer=
 
 botania.entry.goldpotato=金のジャガイモ
@@ -450,7 +450,7 @@ botania.tagline.goldpotato=黄金の伝説
 botania.entry.failnaught=フェイルノート
 botania.page.failnaught0=The Failnaught uses &4Mana&0 to shoot magic arrows which pierce through enemies and deal damage to the creatures in the area. The longer you draw the bow, the more damage it will deal.
 botania.page.failnaught1=A hundred shots, a hundred bullseyes.
-botania.tagline.failnaught=ARTIFACT.
+botania.tagline.failnaught=骨董品。
 
 botania.entry.natureorb=ネイチャーオーブ
 botania.page.natureorb0=The Nature Orb can store &1Natural Breath&0, a magical power which protects the carrier. To collect &1Natural Breath&0 it needs to be placed on a Livingrock Pedestal and a ritualistic multiblock structure around Livingrock Pedestal is needed. Additionally the Nature Orb grants boosts to certain nearby flowers.
@@ -462,7 +462,7 @@ botania.page.natureorb4=Build a multiblock structure and place it on the Livingr
 botania.tagline.natureorb=Natural Balance
 
 botania.entry.camera=射命丸のカメラ
-botania.page.camera0=Shameimaru's Camera strips nearby creatures of their abilities. Projectiles in sight will vanish. Creatures affected by this will return to normal after a period of time. The camera can affect bosses for a very short period.
+botania.page.camera0=射命丸のカメラは、付近の生物の能力を Projectiles in sight will vanish. Creatures affected by this will return to normal after a period of time. The camera can affect bosses for a very short period.
 botania.page.camera1=スナップショット
 botania.tagline.camera=ハイ、チーズ！
 
