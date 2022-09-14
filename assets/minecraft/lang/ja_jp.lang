@@ -291,18 +291,18 @@ extrabotanymisc.support61=%s helped you
 extrabotanymisc.support62=%s helped you 
 
 botania.entry.bloodyenchantress=ブラッディエンチャントス
-botania.page.bloodyenchantress0=ブラッディエンチャントス<BR>は近くの生物の体力を消費<BR>して&4マナ&0を作り出す。<BR>犠牲になった生物からはド<BR>ロップ品と経験値をドロッ<BR>プしなくなる。
-botania.page.bloodyenchantress2=体力を消費するごとに「血<BR>の誘惑」という効果が増加<BR>し、より高いレベルに統合<BR>される。<BR>「血の誘惑」のレベルに応<BR>じてマナの生成量が減少し、近くの全ての生物の「血の<BR>誘惑」の合計のレベルが1<BR>を超えるとこの花は機能し<BR>なくなる。
+botania.page.bloodyenchantress0=ブラッディエンチャントス<br>は近くの生物の体力を消費<br>して&4マナ&0を作り出す。<br>犠牲になった生物からはド<br>ロップ品と経験値をドロッ<br>プしなくなる。
+botania.page.bloodyenchantress2=体力を消費するごとに「血<br>の誘惑」という効果が増加<br>し、より高いレベルに統合<br>される。<br>「血の誘惑」のレベルに応<br>じてマナの生成量が減少し、近くの全ての生物の「血の<br>誘惑」の合計のレベルが1<br>を超えるとこの花は機能し<br>なくなる。
 botania.page.bloodyenchantress1=死こそ唯一の治療法。
 botania.tagline.bloodyenchantress=燃える精神
 
 botania.entry.sunbless=サンシャインリリー
-botania.page.sunbless0=&1デイブルーム&0と同様に、日光から&4マナ&を生産するが、少し効率がいい。受動的な花のため、枯れてしまう。
+botania.page.sunbless0=&1デイブルーム&0と同様に、日<br>光から&4マナ&を生産するが、<br>少し効率がいい。受動的な<br>花のため、枯れてしまう。
 botania.page.sunbless1=癒して温める。
 botania.tagline.sunbless=太陽からのマナ
 
 botania.entry.moonbless=ムーンライトリリー
-botania.page.moonbless0=&1ナイトシャード&0と同様に、夜に&4マナ&を生産するが、少し効率がいい。受動的な花のため、枯れてしまう。
+botania.page.moonbless0=&1ナイトシャード&0と同様に、<br>夜に&4マナ&を生産するが、少<br>し効率がいい。受動的な花<br>のため、枯れてしまう。
  botania.page.moonbless1=愚か者の種まき。
  botania.tagline.moonbless=月からのマナ
 
@@ -312,12 +312,12 @@ botania.page.omniviolet1=アカシックレコード。
 botania.tagline.omniviolet=知識は力なり
 
 botania.entry.stonesia=ストーンジア
-botania.page.stonesia0=ストーンジアは石、丸石、<BR>鉱石をマナに変換する。特<BR>に希少鉱石はより多くのマ<BR>ナを生成する。<BR>付近にリビングロックの台<BR>座を設置し、ネイチャーオ<BR>ーブを台座に配置すること<BR>で、マナの生成量を増加さ<BR>せることができる。
+botania.page.stonesia0=ストーンジアは石、丸石、<br>鉱石をマナに変換する。特<br>に希少鉱石はより多くのマ<br>ナを生成する。<br>付近にリビングロックの台<br>座を設置し、ネイチャーオ<br>ーブを台座に配置すること<br>で、マナの生成量を増加さ<br>せることができる。
 botania.page.stonesia1=ダイアモンド&パール。
 botania.tagline.stonesia=希少価値
 
 botania.entry.tinkle=ティンクルフラワー
-botania.page.tinkle0=ティンクルフラワーは、付<BR>近のプレイヤーの運動エネ<BR>ルギーをマナに変換する。<BR>付近にリビングロックの台<BR>座を設置し、ネイチャーオ<BR>ーブを台座に配置すること<BR>で、マナの生成量を増加さ<BR>せることができる。
+botania.page.tinkle0=ティンクルフラワーは、付<br>近のプレイヤーの運動エネ<br>ルギーをマナに変換する。<br>付近にリビングロックの台<br>座を設置し、ネイチャーオ<br>ーブを台座に配置すること<br>で、マナの生成量を増加さ<br>せることができる。
 botania.page.tinkle1=鐘の音と共に...貴方を探しに来たんだ。
 botania.tagline.tinkle=走れ！走れ！走れ！
 
@@ -359,9 +359,9 @@ botania.page.edelweiss0=エーデルワイスはスノーゴ<BR>ーレムやゴ�
 botania.page.edelweiss1=もしこれを読んでいるなら、読み直して。
 botania.tagline.edelweiss=ちょっと残酷
 
-botania.entry.geminiorchid=Gemini Orchid
+botania.entry.geminiorchid=ジェミニオーキッド
 botania.page.geminiorchid0=A &1Gemini Orchid&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
-botania.page.geminiorchid1=I am power incarnate!
+botania.page.geminiorchid1=私は力の化身だ！
 botania.page.geminiorchid2=
 botania.tagline.geminiorchid=
 
@@ -394,8 +394,8 @@ botania.page.kinggarden3=全知なるや全能の星。
 botania.tagline.kinggarden=Ultimate Flower Work
 
 botania.entry.nightmarefuel=悪夢の燃料
-botania.page.nightmarefuel0=Nightmare Fuel is an advanced fuel created by Mana Infusion. It seems to be edible.
-botania.page.nightmarefuel1=脳が震える。
+botania.page.nightmarefuel0=悪夢の燃料はマナによって<br>進化した燃料で、食用にも<br>なる。
+botania.page.nightmarefuel1=脳が震えるうぅぅ
 botania.tagline.nightmarefuel=
 
 botania.entry.spiritfuel=魂の燃料
@@ -425,7 +425,7 @@ botania.tagline.pedestal=Display items
 
 botania.entry.froststar=霜の指輪
 botania.page.froststar0=The &1Frost Ring&0 freezes large areas of water and lava. It also applies slowness creatures looked at by the wearer.
-botania.page.froststar1=私は祟りの凍てつく心だ！
+botania.page.froststar1=私は惨劇の凍てつく心だ！
 botania.tagline.froststar=指一つ動かすなよ
 
 botania.entry.deathring=呪いの指輪
@@ -443,13 +443,13 @@ botania.page.hammer5=後悔なんて、あるわけない。
 botania.tagline.hammer=
 
 botania.entry.goldpotato=金のジャガイモ
-botania.page.goldpotato0=The Gilded Potato may have other uses.
-botania.page.goldpotato1=There is a miracle, something magical.
+botania.page.goldpotato0=金のジャガイモは、他にも<br>使い道があるだろう。
+botania.page.goldpotato1=奇跡も、魔法も、あるんだよ
 botania.tagline.goldpotato=黄金の伝説
 
 botania.entry.failnaught=フェイルノート
 botania.page.failnaught0=The Failnaught uses &4Mana&0 to shoot magic arrows which pierce through enemies and deal damage to the creatures in the area. The longer you draw the bow, the more damage it will deal.
-botania.page.failnaught1=A hundred shots, a hundred bullseyes.
+botania.page.failnaught1=百発百中、牛歩の如し。
 botania.tagline.failnaught=骨董品。
 
 botania.entry.natureorb=ネイチャーオーブ
@@ -498,13 +498,13 @@ botania.tagline.cocoondesire=孵卵器
 botania.entry.combatmaid=プレアデスの戦闘メイド
 botania.page.combatmaid0=An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
 botania.page.combatmaid1=Pleiades Combat Maid Headgear
-botania.page.combatmaid2=Pleiades Combat Maid Suit
+botania.page.combatmaid2=Pleiades Combat Maid Suitn
 botania.page.combatmaid3=Pleiades Combat Maid Skirt
 botania.page.combatmaid4=Pleiades Combat Maid Boots
 botania.tagline.combatmaid=オーバーロード
 
 botania.entry.cosmeticmaid=星の歌姫
-botania.page.cosmeticmaid0=An improved version of Manasteel Armor,it gives the wearer a high mana discount.
+botania.page.cosmeticmaid0=マナスチール装備の改良品<br>で、装備するとマナの消費<br>量を抑える。
 botania.page.cosmeticmaid1=星の歌姫の帽子
 botania.page.cosmeticmaid2=星の歌姫の服
 botania.page.cosmeticmaid3=星の歌姫のスカート
@@ -624,13 +624,13 @@ botania.page.ticket1=
 botania.tagline.ticket=
 
 botania.entry.goblinslayer=ゴブリンスレイヤーの鎧
-botania.page.goblinslayer0=Photonium is the opposite side of Shadowium.
+botania.page.goblinslayer0=フォトニウムはシャドウニウムの反転だ。
 botania.page.goblinslayer1=
 botania.page.goblinslayer2=It can be used to make Goblin Slayer Armor, which gives powers  to the player during day time, enabling you to regenerate more quickly and deal extra damage to non-undead creatures.
-botania.page.goblinslayer3=Goblin Slayer Helmet
-botania.page.goblinslayer4=Goblin Slayer Chestplate
-botania.page.goblinslayer5=Goblin Slayer Leggings
-botania.page.goblinslayer6=Goblin Slayer Boots
+botania.page.goblinslayer3=ゴブリンスレイヤーのヘルメット
+botania.page.goblinslayer4=ゴブリンスレイヤーのチェストプレート
+botania.page.goblinslayer5=ゴブリンスレイヤーのレギンス
+botania.page.goblinslayer6=ゴブリンスレイヤーのブーツ
 botania.tagline.goblinslayer=
 
 botania.entry.lensextra=新たなマナレンズ
@@ -642,7 +642,7 @@ botania.page.lensextra4=Mana Lens: Mana is like a Mana Pool, it will infuse the 
 botania.page.lensextra5=Mana
 botania.page.lensextra6=Mana Lens: Potion will add potion effects to the entity collided. Craft the lens with the brew flask to decide its effect.
 botania.page.lensextra7=Potion
-botania.page.lensextra8=Mana Lens: Cloud will create a potion cloud when the Mana Burst collide with entity.
+botania.page.lensextra8=マナレンズ: 雲 will create a potion cloud when the Mana Burst collide with entity.
 botania.page.lensextra9=Cloud
 botania.page.lensextra10=マナレンズ: 追跡 will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
 botania.page.lensextra11=追跡
@@ -656,17 +656,17 @@ botania.tagline.judahoath=
 
 botania.entry.bottledflame=瓶詰めの炎
 botania.page.bottledflame0= Equiping a Bottled flame and having torches in your inventory will cause torches to be placed down in dark areas. Torch placement is the block that is nearest the player.
-botania.page.bottledflame1=Bottled Flame
+botania.page.bottledflame1=瓶詰めの炎
 botania.tagline.bottledflame=
 
-botania.entry.bottledstar=瓶詰めの炎
+botania.entry.bottledstar=瓶詰めの星
 botania.page.bottledstar0= A Bottled Star requires a little &4Mana&0 to set up and then it will summon a lot of stars to attack enemies in a area.
-botania.page.bottledstar1=Bottled Star
+botania.page.bottledstar1=瓶詰めの星
 botania.tagline.bottledstar=
 
 botania.entry.bottledpixie=瓶詰めピクシィ
 botania.page.bottledpixie0= A Bottled Star uses a little &4Mana&0 to summon a pixie to help you fight. The pixie will only attack hostile mobs and it is quite naughty :3
-botania.page.bottledpixie1=Bottled Pixie
+botania.page.bottledpixie1=瓶詰めピクシィ
 botania.tagline.bottledpixie=
 
 botania.entry.dimensioncatalyst=Dimension Catalyst
@@ -721,13 +721,13 @@ botania.page.jingweifeather0=After equipping a Feather of JingWei, the player ca
 botania.page.jingweifeather1=
 botania.tagline.jingweifeather=
 
-botania.entry.magicfinger=Magic Finger
+botania.entry.magicfinger=魔法の指
 botania.page.magicfinger0=Right-Clicking a regular mana pool with a Magic Finger will fill the mana pool from the player's mana. Attacking with the magic finger will make any healing done to a entity instead do a equivelent amount of damage that would be healed back to the entity for 3 seconds. 
 botania.page.magicfinger1=
 botania.tagline.magicfinger=
 
-botania.entry.manadriverring=悪魔の指輪
-botania.page.manadriverring0=After equipping Ring of Mana Drive, your mana will spread into air, supplying the functional flowers nearby.
+botania.entry.manadriverring=マナ駆動の指輪
+botania.page.manadriverring0=マナ駆動の指輪を装備する<br>と、マナを空中に散布し。<br>近くのマナで機能する花に<br>マナを供給する。
 botania.page.manadriverring1=
 botania.tagline.manadriverring=
 
@@ -761,7 +761,7 @@ extrabotany.config.enable.ca=Enable Construct's Armory Compat
 advancement.extrabotany:nightmarefuelEating=DEEP♂DARK♂FANTASY
 advancement.extrabotany:nightmarefuelEating.desc=悪夢の燃料を食べる
 advancement.extrabotany:newknowledgeUnlock=Unlock New Knowledge
-advancement.extrabotany:newknowledgeUnlock.desc=Hold a Lexicon and right-click a Livingrock Pedestal with a Spirit Fuel in it
+advancement.extrabotany:newknowledgeUnlock.desc=ボタニア植物辞典を持って魂の燃料が配置されたリビングロックの台座を右クリックする
 advancement.extrabotany:pedestalCraft=CONNECT
 advancement.extrabotany:pedestalCraft.desc=リビングロックの台座をクラフトする
 advancement.extrabotany:ultimatehammerCraft=PON PON PON
@@ -811,23 +811,23 @@ advancement.extrabotany:armorsetCos.desc=全ての星の歌姫の服を身に着
 advancement.extrabotany:armorsetCombat=Drug Of Gold
 advancement.extrabotany:armorsetCombat.desc=Equip Pleiades Combat Maid Armor Set
 advancement.extrabotany:armorsetSW=Crazy ∞ nighT
-advancement.extrabotany:armorsetSW.desc=Equip Shadow Warrior Armor Set at night
+advancement.extrabotany:armorsetSW.desc=夜の間に全ての影武者の鎧を装備する
 advancement.extrabotany:airshipMaxheight=Slowly sky
 advancement.extrabotany:airshipMaxheight.desc=Drive a Terrasteel Airship at least 200 metres high
 advancement.extrabotany:infinitewineCraft=shake it!
 advancement.extrabotany:infinitewineCraft.desc=インフィニティワインをクラフトする
 advancement.extrabotany:excaliberCraft=ReAct
 advancement.extrabotany:excaliberCraft.desc=Obtain Excaliber
-advancement.extrabotany:allStats=erase or Zero
-advancement.extrabotany:allStats.desc=Unlock All ExtraBotany's Advancements
+advancement.extrabotany:allStats=erase or zero
+advancement.extrabotany:allStats.desc=全てのextra botanyの実績を完了する
 advancement.extrabotany:luckyDraw=Starduster
-advancement.extrabotany:luckyDraw.desc=Obtain Super Rare Item through Reward Bag
+advancement.extrabotany:luckyDraw.desc=リワードバッグから珍しいアイテムを手に入れる
 advancement.extrabotany:buddhistRelics=SPiCa
 advancement.extrabotany:buddhistRelics.desc=Obtain Origin Creation - Omniscience
 advancement.extrabotany:spearsubspaceCraft=Nightglow
-advancement.extrabotany:spearsubspaceCraft.desc=Obtain Spear of Subspace
+advancement.extrabotany:spearsubspaceCraft.desc=亜空の矛をクラフトする
 advancement.extrabotany:armorsetGS=Befall
-advancement.extrabotany:armorsetGS.desc=Equip Goblin Slayer Armor Set
+advancement.extrabotany:armorsetGS.desc=全てのゴブリンスレイヤーを鎧を装備する
 advancement.extrabotany:herrscherDefeat=SALVATION
 advancement.extrabotany:herrscherDefeat.desc=Defeat Herrscher of The Void
 advancement.extrabotany:endgameGoal=最終日
