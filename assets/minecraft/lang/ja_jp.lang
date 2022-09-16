@@ -62,8 +62,8 @@ item.extrabotany:lensmana.name=マナレンズ: マナ
 item.botania:lensmana.short=マナ
 item.extrabotany:lenssmelt.name=マナレンズ: 精錬
 item.botania:lenssmelt.short=精錬
-item.extrabotany:lenspotion.name=マナレンズ: 薬
-item.botania:lenspotion.short=薬
+item.extrabotany:lenspotion.name=マナレンズ: ポーション
+item.botania:lenspotion.short=ポーション
 item.extrabotany:lenscloud.name=マナレンズ: 雲
 item.botania:lenscloud.short=雲
 item.extrabotany:lenssexpistol.name=マナレンズ: 追跡
@@ -83,7 +83,7 @@ item.extrabotany:question.name=クエッションマーク
 item.extrabotany:lemon.name=レモン
 item.extrabotany:thuglife.name=Thug Life
 item.extrabotany:magicfinger.name=魔法の指
-item.extrabotany:manadriverring.name=悪魔の指輪
+item.extrabotany:manadriverring.name=マナ駆動の指輪
 item.extrabotany:jingweifeather.name=兆銘の羽
 
 item.extrabotany:kinggarden.name=王律庭
@@ -599,7 +599,7 @@ botania.page.parkour4=
 botania.tagline.parkour=
 
 botania.entry.elvenking=エルフの王の指輪
-botania.page.elvenking0=Ring of Elven King can perform three common baubles' abilities. Just carry a Bauble Case and put the bauble you want in the first three slots. Not all the baubles can be simulated.
+botania.page.elvenking0=エルフの王の指輪は3つのアクセサリーの効果を発揮できる。それには装飾品入れの中の1〜3番目のスロットのアクセサリーの効果が適応される。しかし、一部のアクセサリーは効果を発揮できない。
 botania.page.elvenking1=
 botania.tagline.elvenking=
 
@@ -640,8 +640,8 @@ botania.page.lensextra2=Mana Lens: Smelt is like a furnace, it will enable a Man
 botania.page.lensextra3=Smelt
 botania.page.lensextra4=Mana Lens: Mana is like a Mana Pool, it will infuse the item with mana. If you place a Alchemy Catalyst or a Conjuration Catalyst under the spreader, it will do the cocorresponding work.
 botania.page.lensextra5=Mana
-botania.page.lensextra6=Mana Lens: Potion will add potion effects to the entity collided. Craft the lens with the brew flask to decide its effect.
-botania.page.lensextra7=Potion
+botania.page.lensextra6=マナレンズ: ポーションは衝突したエンティティにポーションの効果を付与する。醸造フラスコでポーションの効果を変更できる。
+botania.page.lensextra7=ポーション
 botania.page.lensextra8=マナレンズ: 雲 will create a potion cloud when the Mana Burst collide with entity.
 botania.page.lensextra9=Cloud
 botania.page.lensextra10=マナレンズ: 追跡 will enable Mana Burst to locate the first entity within 3 meters and keep tracking until either is dead.
@@ -649,7 +649,7 @@ botania.page.lensextra11=追跡
 botania.tagline.lensextra=
 
 botania.entry.judahoath=ユダの誓約
-botania.page.judahoath0=The Judah Oath, at the cost of some mana, will imprison creatures in its range and shoot divine spears at them.
+botania.page.judahoath0=ユダの誓約は、マナを消費してその範囲内に生物を閉じ込め、それらに向けて神槍を撃ち込む。
 botania.page.judahoath1=ユダの誓約
 botania.page.judahoath2=ユダの誓約 KIRA
 botania.tagline.judahoath=
@@ -660,7 +660,7 @@ botania.page.bottledflame1=瓶詰めの炎
 botania.tagline.bottledflame=
 
 botania.entry.bottledstar=瓶詰めの星
-botania.page.bottledstar0= A Bottled Star requires a little &4Mana&0 to set up and then it will summon a lot of stars to attack enemies in a area.
+botania.page.bottledstar0=瓶詰めの星は、&4マナ&0を消費し、周囲の敵にダメージを与える星を多数召喚する。
 botania.page.bottledstar1=瓶詰めの星
 botania.tagline.bottledstar=
 
@@ -722,7 +722,7 @@ botania.page.jingweifeather1=
 botania.tagline.jingweifeather=
 
 botania.entry.magicfinger=魔法の指
-botania.page.magicfinger0=Right-Clicking a regular mana pool with a Magic Finger will fill the mana pool from the player's mana. Attacking with the magic finger will make any healing done to a entity instead do a equivelent amount of damage that would be healed back to the entity for 3 seconds. 
+botania.page.magicfinger0=魔法の指を持ってマナプールを右クリックすると、マナプールを満たすマナを Attacking with the magic finger will make any healing done to a entity instead do a equivelent amount of damage that would be healed back to the entity for 3 seconds. 
 botania.page.magicfinger1=
 botania.tagline.magicfinger=
 
@@ -809,7 +809,7 @@ advancement.extrabotany:musicAll.desc=辛抱強く耳を傾ける
 advancement.extrabotany:armorsetCos=cat's dance
 advancement.extrabotany:armorsetCos.desc=全ての星の歌姫の服を身に着ける
 advancement.extrabotany:armorsetCombat=Drug Of Gold
-advancement.extrabotany:armorsetCombat.desc=Equip Pleiades Combat Maid Armor Set
+advancement.extrabotany:armorsetCombat.desc=全てのプレアデスの戦闘メイドの服を装備する
 advancement.extrabotany:armorsetSW=Crazy ∞ nighT
 advancement.extrabotany:armorsetSW.desc=夜の間に全ての影武者の鎧を装備する
 advancement.extrabotany:airshipMaxheight=Slowly sky
