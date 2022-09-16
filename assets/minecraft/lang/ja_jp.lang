@@ -1,4 +1,4 @@
-botania.knowledge.dream=&6夢&7 知識
+botania.knowledge.dream=&6夢&7の知識
 
 botania.brew.revolution=革命
 botania.brew.shell=亀の甲羅
@@ -303,7 +303,7 @@ botania.tagline.sunbless=太陽からのマナ
 
 botania.entry.moonbless=ムーンライトリリー
 botania.page.moonbless0=&1ナイトシャード&0と同様に、<br>夜に&4マナ&を生産するが、少<br>し効率がいい。受動的な花<br>のため、枯れてしまう。
- botania.page.moonbless1=愚か者の種まき。
+ botania.page.moonbless1=愚者の種蒔き
  botania.tagline.moonbless=月からのマナ
 
 botania.entry.omniviolet=オムニバイオレット
@@ -323,7 +323,7 @@ botania.tagline.tinkle=走れ！走れ！走れ！
 
 botania.entry.bellflower=ベルフラワー
 botania.page.bellflower0=ベルフラワーは屋外に植えると、風からマナを生成し、高度が高いほど生成量は増える。付近にリビングロックの台座を設置し、ネイチャーオーブを台座に配置することで、マナの生成量を増加させることができる。受動的な花のため、枯れてしまう。
-botania.page.bellflower1=木を倒せるのは嵐だけだ。
+botania.page.bellflower1=嵐だけが大樹を倒す。
 botania.tagline.bellflower=風からのマナ
 
 botania.entry.annoyingflower=ウザい花
@@ -377,7 +377,7 @@ botania.tagline.enchantedorchid=Knowledge is power and I know a lot
 
 botania.entry.necrofleur=Necrofleur
 botania.page.necrofleur0=Necrofleur will only target those non-player creatures with lower than 50% health. It will spread despair and strike them a heavy blow, reducing the following healings they will receive.
-botania.page.necrofleur1=Meteor Strike
+botania.page.necrofleur1=メテオ・ストライク
 botania.tagline.necrofleur=I will mourn your death
 
 botania.entry.manabarrel=マナバッファ
@@ -389,7 +389,7 @@ botania.tagline.manabarrel=マナ貯蔵
 botania.entry.kinggarden=王律庭
 botania.page.kinggarden0=Garden of King's Law can summon flowers which are recorded by it to give the enemy a heavy blow. Just place it on the Livingrock Pedestal, hold a flower and right-click to record. Different flowers will have different effects.
 botania.page.kinggarden1=For example, Blood Enchantress will deal high magic damage, Sunshine Lily will set enemies on fire. But not every type of flower can be recorded.
-botania.page.kinggarden2=Enuma Elish.
+botania.page.kinggarden2=エヌマ・エリシュ
 botania.page.kinggarden3=全知なるや全能の星。
 botania.tagline.kinggarden=Ultimate Flower Work
 
@@ -417,9 +417,9 @@ botania.entry.pedestal=リビングロックの台座
 botania.page.pedestal0=右クリックでリビングロッ<BR>クの台座にアイテムを配置<BR>できる。<BR>ハンマーでリビングロックの<BR>台座に配置されたアイテム<BR>を練造できる。
 botania.page.pedestal1=What is evil? Everything that comes from weakness is evil.
 botania.page.pedestal2=Hidden is a kind of outstanding talent.
-botania.page.pedestal3=Hell is other people.
+botania.page.pedestal3=地獄とは他人のことだ。
 botania.page.pedestal4=Nothing is as dangerous as an ignorant friend, better a wise enemy.
-botania.page.pedestal5=Leave all hope, you who enter.
+botania.page.pedestal5=この門をくぐる者は一切の希望を捨てよ。
 botania.page.pedestal6=Man is condemned to be free.
 botania.tagline.pedestal=Display items
 
@@ -481,7 +481,7 @@ botania.tagline.gaia4=It's HARDCORE
 
 botania.entry.relicshield=アキレウスの盾
 botania.page.relicshield0=The &4Achilled Shield&0 can reflect damage and most projectiles. Colliding with enemies while blocking will deal damage to them. Sneak and right-click with over 12 absorption and you will release its true power. To maintain its new form will cost you 2 absoprtion every second.
-botania.page.relicshield1=私は人間を食い止める。
+botania.page.relicshield1=おれは人間をやめるぞ！
 botania.tagline.relicshield=ATフィールド
 
 botania.entry.mastermanaring=極めしマナバンド
@@ -686,10 +686,10 @@ botania.tagline.dimensioncatalyst=
 
 botania.category.dream=ExtraBotany
 
-botania.entry.guide=From The New World
+botania.entry.guide=新世界より
 botania.page.guide0=Welcome to the World of the supreme principle of Mana! You are one who has great potential and I believe you will have a shiny, bright future. I am sure you are hungery for more knowledge. Follow me then, I will pass on my knowledge and experience to you.
 botania.page.guide1=Hold the lexicon and right-click a Livingrock Pedestal with a Spirit Fuel, and you will unlock the new knowledge type. <br>To obtain Spirit Fuel, you have to eat one Nightmare Fuel or put it in a Livingrock Pedestal under Sun for 5 mins.
-botania.tagline.guide=The New World
+botania.tagline.guide=新世界
 
 botania.entry.voidherrscher=Herrscher of the Void?The Final Combat
 botania.page.voidherrscher0=After you defeated Gaia Guardian III ,you get the permission to challenge Herrscher of The Void. The medal for heroism has huge energy fluctuation. You need the ancient spirits of light and dark and the power of Ritual of Gaia to stabilize it.
@@ -832,7 +832,7 @@ advancement.extrabotany:herrscherDefeat=SALVATION
 advancement.extrabotany:herrscherDefeat.desc=Defeat Herrscher of The Void
 advancement.extrabotany:endgameGoal=最終日
 advancement.extrabotany:endgameGoal.desc=Challenge the final task ? Defeat Herrscher of The Void in 3 minutes!
-advancement.extrabotany:manadriverGet=未熟者
+advancement.extrabotany:manadriverGet=園芸の才能
 advancement.extrabotany:manadriverGet.desc=Complete 6 extrabotany's advancement and you will be awarded Ring of Mana Drive.
 advancement.extrabotany:magicfingerGet=こちら、幸福安心委員会です。
 advancement.extrabotany:magicfingerGet.desc=extra botanyの実績を12個完了し、魔法の指を入手する
@@ -844,7 +844,7 @@ advancement.extrabotany:coregodCraft=女王陛下万歳
 advancement.extrabotany:coregodCraft.desc=神の心をクラフトする
 advancement.extrabotany:ringSet=RING×RING×RING
 advancement.extrabotany:ringSet.desc=全ての種類の指輪を収集する
-advancement.extrabotany:bottleSet=インザイド・アウト
+advancement.extrabotany:bottleSet=インサイド・アウト
 advancement.extrabotany:bottleSet.desc=全ての種類のビンを収集する
 
 advancement.extrabotany:=
