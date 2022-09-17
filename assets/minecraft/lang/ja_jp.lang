@@ -722,7 +722,7 @@ botania.page.jingweifeather1=
 botania.tagline.jingweifeather=
 
 botania.entry.magicfinger=魔法の指
-botania.page.magicfinger0=魔法の指を持ってマナプールを右クリックすると、マナプールを満たすマナを Attacking with the magic finger will make any healing done to a entity instead do a equivelent amount of damage that would be healed back to the entity for 3 seconds. 
+botania.page.magicfinger0=魔法の指を持ってマナプールを右クリックすると、プレイヤーのマナでマナプールを満たす。Attacking with the magic finger will make any healing done to a entity instead do a equivelent amount of damage that would be healed back to the entity for 3 seconds. 
 botania.page.magicfinger1=
 botania.tagline.magicfinger=
 
@@ -731,7 +731,7 @@ botania.page.manadriverring0=マナ駆動の指輪を装備する<br>と、マ�
 botania.page.manadriverring1=
 botania.tagline.manadriverring=
 
-botania.entry.chargepad=Power Frame
+botania.entry.chargepad=力の架台
 botania.page.chargepad0=By placing a mana storing item in the Power Frame, you can fill it from a mana pool on top of the powerframe, giving the frame a redstone signal reverses the prosses
 botania.page.chargepad1=
 botania.tagline.chargepad=
@@ -809,7 +809,7 @@ advancement.extrabotany:musicAll.desc=辛抱強く耳を傾ける
 advancement.extrabotany:armorsetCos=cat's dance
 advancement.extrabotany:armorsetCos.desc=全ての星の歌姫の服を身に着ける
 advancement.extrabotany:armorsetCombat=Drug Of Gold
-advancement.extrabotany:armorsetCombat.desc=全てのプレアデスの戦闘メイドの服を装備する
+advancement.extrabotany:armorsetCombat.desc=全てのプレアデスの戦闘メイドの服を身に着ける
 advancement.extrabotany:armorsetSW=Crazy ∞ nighT
 advancement.extrabotany:armorsetSW.desc=夜の間に全ての影武者の鎧を装備する
 advancement.extrabotany:airshipMaxheight=Slowly sky
@@ -823,9 +823,9 @@ advancement.extrabotany:allStats.desc=全てのextra botanyの実績を完了す
 advancement.extrabotany:luckyDraw=Starduster
 advancement.extrabotany:luckyDraw.desc=リワードバッグから珍しいアイテムを手に入れる
 advancement.extrabotany:buddhistRelics=SPiCa
-advancement.extrabotany:buddhistRelics.desc=Obtain Origin Creation - Omniscience
+advancement.extrabotany:buddhistRelics.全智の原点創造を手に入れる
 advancement.extrabotany:spearsubspaceCraft=Nightglow
-advancement.extrabotany:spearsubspaceCraft.desc=亜空の矛をクラフトする
+advancement.extrabotany:spearsubspaceCraft.desc=亜空の矛を手に入れる
 advancement.extrabotany:armorsetGS=Befall
 advancement.extrabotany:armorsetGS.desc=全てのゴブリンスレイヤーを鎧を装備する
 advancement.extrabotany:herrscherDefeat=SALVATION
