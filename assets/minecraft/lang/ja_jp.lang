@@ -81,7 +81,7 @@ item.extrabotany:goggle_standard.name=ゴーグル
 item.extrabotany:blackglasses.name=黒のメガネ
 item.extrabotany:question.name=クエッションマーク
 item.extrabotany:lemon.name=レモン
-item.extrabotany:thuglife.name=Thug Life
+item.extrabotany:thuglife.name=サグ・ライフ
 item.extrabotany:magicfinger.name=魔法の指
 item.extrabotany:manadriverring.name=マナ駆動の指輪
 item.extrabotany:jingweifeather.name=兆銘の羽
@@ -152,7 +152,7 @@ tile.extrabotany:blockorichalcos.name=オリハルコンブロック
 tile.extrabotany:manabarrel.name=マナバッファ
 tile.extrabotany:cocoondesire.name=願望の繭
 tile.extrabotany:managenerator.name=流入のマナ生成器
-tile.extrabotany:manaliquefaction.name=マナ溶解器
+tile.extrabotany:manaliquefaction.name=流体マナデバイス
 tile.extrabotany:elfjar.name=リビングロックの樽
 tile.extrabotany:trophy.name=トロフィー
 tile.extrabotany:fluidedmana.name=流体マナ
@@ -313,7 +313,7 @@ botania.tagline.omniviolet=知識は力なり
 
 botania.entry.stonesia=ストーンジア
 botania.page.stonesia0=ストーンジアは石、丸石、<br>鉱石をマナに変換する。特<br>に希少鉱石はより多くのマ<br>ナを生成する。<br>付近にリビングロックの台<br>座を設置し、ネイチャーオ<br>ーブを台座に配置すること<br>で、マナの生成量を増加さ<br>せることができる。
-botania.page.stonesia1=ダイアモンド&パール。
+botania.page.stonesia1=ダイアモンド・パール。
 botania.tagline.stonesia=希少価値
 
 botania.entry.tinkle=ティンクルフラワー
@@ -336,7 +336,7 @@ botania.tagline.annoyingflower=時は魚なり
 botania.entry.manalinkium=マナリンキウム
 botania.page.manalinkium0=マナリンキウムはマナを無<BR>線でマナをマナプールに送<BR>信する。<BR>マナプールの座標が記録さ<BR>れたポジションリーダーを<BR>持って右クリックすること<BR>で送信が開始される。
 botania.page.manalinkium1=これは現実的すぎる。
-botania.page.manalinkium2=この花を機能させるには構<BR>造物が必要となる。
+botania.page.manalinkium2=この花を機能させるには構<br>造物が必要となる。
 botania.page.manalinkium3=構造物の中央に植える。
 botania.page.manalinkium4=
 botania.tagline.manalinkium=無線送信
@@ -355,7 +355,7 @@ botania.page.reikarlily1=I Choose You!
 botania.tagline.reikarlily=Lightning Energy
 
 botania.entry.edelweiss=エーデルワイス
-botania.page.edelweiss0=エーデルワイスはスノーゴ<BR>ーレムやゴーレムを飲み込<BR>んでマナに変換する。
+botania.page.edelweiss0=エーデルワイスはスノーゴ<br>ーレムやゴーレムを飲み込<br>んでマナに変換する。
 botania.page.edelweiss1=もしこれを読んでいるなら、読み直して。
 botania.tagline.edelweiss=ちょっと残酷
 
@@ -448,7 +448,7 @@ botania.page.goldpotato1=奇跡も、魔法も、あるんだよ
 botania.tagline.goldpotato=黄金の伝説
 
 botania.entry.failnaught=フェイルノート
-botania.page.failnaught0=The Failnaught uses &4Mana&0 to shoot magic arrows which pierce through enemies and deal damage to the creatures in the area. The longer you draw the bow, the more damage it will deal.
+botania.page.failnaught0=フェイルノートは&4マナ&0を消<br>費して、敵を貫通して範囲<br>攻撃を行う魔法の矢を発射<br>する。<br>弓を引く時間が長いほど威<br>力が増加する。
 botania.page.failnaught1=百発百中、牛歩の如し。
 botania.tagline.failnaught=骨董品。
 
@@ -456,13 +456,13 @@ botania.entry.natureorb=ネイチャーオーブ
 botania.page.natureorb0=The Nature Orb can store &1Natural Breath&0, a magical power which protects the carrier. To collect &1Natural Breath&0 it needs to be placed on a Livingrock Pedestal and a ritualistic multiblock structure around Livingrock Pedestal is needed. Additionally the Nature Orb grants boosts to certain nearby flowers.
 botania.page.natureorb5=Blessing of Mana will provide you with mana, Blessing of Regeneration will speed up your regeneration and Blessing of Senro will drive away bad effects on you.
 botania.page.natureorb1=ブラッドオーブではない。
-botania.page.natureorb2=Rank I Ritual.
-botania.page.natureorb3=Rank II Ritual.
+botania.page.natureorb2=ランクⅠの儀式。
+botania.page.natureorb3=ランクⅡの儀式。
 botania.page.natureorb4=Build a multiblock structure and place it on the Livingrock Pedestal to collect &1Natural Breath&0.
-botania.tagline.natureorb=Natural Balance
+botania.tagline.natureorb=ナチュラルバランス
 
 botania.entry.camera=射命丸のカメラ
-botania.page.camera0=射命丸のカメラは、付近の生物の能力を Projectiles in sight will vanish. Creatures affected by this will return to normal after a period of time. The camera can affect bosses for a very short period.
+botania.page.camera0=射命丸のカメラでシャッタ<br>ーを切ると、範囲内の生物<br>の能力を奪うことができ、<br>矢などの弾は消滅する。<br>能力を奪われた生物は一定<br>時間でもとに戻る。<br>ボスにはこのカメラは効き<br>にくい。
 botania.page.camera1=スナップショット
 botania.tagline.camera=ハイ、チーズ！
 
@@ -497,10 +497,10 @@ botania.tagline.cocoondesire=孵卵器
 
 botania.entry.combatmaid=プレアデスの戦闘メイド
 botania.page.combatmaid0=An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
-botania.page.combatmaid1=Pleiades Combat Maid Headgear
-botania.page.combatmaid2=Pleiades Combat Maid Suitn
-botania.page.combatmaid3=Pleiades Combat Maid Skirt
-botania.page.combatmaid4=Pleiades Combat Maid Boots
+botania.page.combatmaid1=プレアデスの戦闘メイドのホワイトブリム
+botania.page.combatmaid2=プレアデスの戦闘メイドの服
+botania.page.combatmaid3=プレアデスの戦闘メイドのスカート
+botania.page.combatmaid4=プレアデスの戦闘メイドのブーツ
 botania.tagline.combatmaid=オーバーロード
 
 botania.entry.cosmeticmaid=星の歌姫
@@ -517,27 +517,27 @@ botania.page.managenerator1=科学の犬が！
 botania.tagline.managenerator=電力をマナに変換
 
 botania.entry.manadrink=マナカクテル
-botania.page.manadrink0=Hold an Empty Mana Glass Bottle and right-click a Mana Liquefaction Device with at least 100mb Fluided Mana will acquire a tasty drink.
+botania.page.manadrink0=空のマナガラスのビンを持<br>って流体マナデバイスを右<br>クリックすると、100mb<br>の流体マナをビンに移し替<br>えておいしいカクテルを作<br>製する。
 botania.page.manadrink1=Cheers!
 botania.tagline.manadrink=Tasty
 
-botania.entry.manaliquefaction=マナ溶解器
-botania.page.manaliquefaction0=Mana Liquefaction Device will drain &4Fluided Mana&0 from liquid tank nearby and transfer into Mana. <br>If giving a redstone signal, it will drain mana, transform it into Fluided Mana and output to nearby liquid tank.
+botania.entry.manaliquefaction=流体マナデバイス
+botania.page.manaliquefaction0=流体マナデバイスは近くの<br>液体タンクの流体マナをマ<br>ナに変換する。<br>レッドストーン信号を与え<br>ると、マナを吸収して流体<br>マナに変換し、近くの液体<br>タンクに移し替える。
 botania.page.manaliquefaction1=Non-Science
 botania.page.manaliquefaction2=
-botania.tagline.manaliquefaction=Liquid Mana
+botania.tagline.manaliquefaction=流体マナ
 
-botania.entry.cocktail=Special-made Cocktail
+botania.entry.cocktail=スペシャルカクテル
 botania.page.cocktail0=By crafting any flask/vial potion with a Mana Cocktail , you can make a Special-made Cocktail that can be drinked two more times than the original flask/vial and it has a longer effect. <br>Aditionaly very special potions have been added and can be crafted into Cocktails too.
-botania.page.cocktail1=Greatly improve the efficiency of mining, but overdraft your luck
+botania.page.cocktail1=採掘が効率よく進むが、運<br>を使い果たしてしまう。
 botania.page.cocktail2=
-botania.page.cocktail3=High level of resistance, but slow as turtle.
+botania.page.cocktail3=高い耐性を得るが、亀のよ<br>うに遅くなる。
 botania.page.cocktail4=
-botania.page.cocktail5=Gain super strength, but what's the cost?
+botania.page.cocktail5=強力な力を得るが、その代<br>償は...？
 botania.page.cocktail6=
-botania.page.cocktail7=Almost all positive effects! But wouldn't last long
+botania.page.cocktail7=多くの良い効果を得るが、<br>長くは続かない。
 botania.page.cocktail8=
-botania.page.cocktail9=One can make you floating, may be better if used on enemies?
+botania.page.cocktail9=浮かせることが出来るので、<br>敵に使うといいかも？
 botania.page.cocktail10=
 botania.tagline.cocktail=
 
@@ -561,12 +561,12 @@ botania.page.shadowwarrior7=影武者の刀
 botania.tagline.shadowwarrior=Not A Vampire
 
 botania.entry.elfjar=リビングロックの樽
-botania.page.elfjar0=A Livingrock Barrel can simply contain 16 buckets of liquid. It will also supply water to the Altar next to it if it has any.
+botania.page.elfjar0=リビングロックの樽は単純<br>に、バケツ16杯分の液体を<br>入れることが出来る。<br>It will also supply water to the Altar next to it if it has any.
 botania.page.elfjar1=Minecraft is too easy.
 botania.tagline.elfjar=Simple
 
 botania.entry.supercrown=スーパークラウン
-botania.page.supercrown0=When you equip the Starry Idol Armor Set or the Pleiades Combat Maid Armor Set, the Super Crown will reduce damage you take by 2.
+botania.page.supercrown0=全ての星の歌姫の服か、全<br>てプレアデスの戦闘メイド<br>の服を装備しているときに<br>装備すると、受けたダメー<br>ジから2ダメージ軽減する。
 botania.page.supercrown1=お前はキノピコじゃない。
 botania.tagline.supercrown=ネコマリオ
 
@@ -599,12 +599,12 @@ botania.page.parkour4=
 botania.tagline.parkour=
 
 botania.entry.elvenking=エルフの王の指輪
-botania.page.elvenking0=エルフの王の指輪は3つのアクセサリーの効果を発揮できる。それには装飾品入れの中の1〜3番目のスロットのアクセサリーの効果が適応される。しかし、一部のアクセサリーは効果を発揮できない。
+botania.page.elvenking0=エルフの王の指輪は3つの<br>アクセサリーの効果を同時<br>に発揮できる。<br>それには装飾品入れの中の<br>1〜3番目のスロットのアク<br>セサリーの効果が適応され<br>る。しかし、一部のアクセ<br>サリーは使えない。
 botania.page.elvenking1=
 botania.tagline.elvenking=
 
 botania.entry.walkingcane=ウォーキングステッキ
-botania.page.walkingcane0=Walking Cane can increase one's speed when he is holding it. What's more, you can right-click to dash a long distance, which costs just a little mana.
+botania.page.walkingcane0=ウォーキングステッキを突<br>きながら歩くと早く歩ける。<br>さらに、右クリックで高速<br>移動ができる。しかもマナ<br>は消費しない。
 botania.page.walkingcane1=
 botania.tagline.walkingcane=
 
@@ -619,12 +619,12 @@ botania.page.godweave1=
 botania.tagline.godweave=
 
 botania.entry.ticket=チャレンジチケット
-botania.page.ticket0=Challenge Ticket can be used as a one-shot thing to summon Gaia Guardian III. Like how you used a gaia ingot to summon Gaia Guardian II.
+botania.page.ticket0=チャレンジチケットはガイ<br>アの守護者Ⅲを召喚するた<br>めに一度使用できる。<br>ガイアの守護者Ⅱを召喚す<br>るのと同じように使用する。
 botania.page.ticket1=
 botania.tagline.ticket=
 
 botania.entry.goblinslayer=ゴブリンスレイヤーの鎧
-botania.page.goblinslayer0=フォトニウムはシャドウニウムの反転だ。
+botania.page.goblinslayer0=フォトニウムはシャドウニ<>ウムと相反する。
 botania.page.goblinslayer1=
 botania.page.goblinslayer2=It can be used to make Goblin Slayer Armor, which gives powers  to the player during day time, enabling you to regenerate more quickly and deal extra damage to non-undead creatures.
 botania.page.goblinslayer3=ゴブリンスレイヤーのヘルメット
@@ -669,9 +669,9 @@ botania.page.bottledpixie0= A Bottled Star uses a little &4Mana&0 to summon a pi
 botania.page.bottledpixie1=瓶詰めピクシィ
 botania.tagline.bottledpixie=
 
-botania.entry.dimensioncatalyst=Dimension Catalyst
-botania.page.dimensioncatalyst0=Dimension Catalyst connects the Overworld with other two dimensions. You can use mana to transform resources from overworld to those from other dimensions.
-botania.page.dimensioncatalyst1=Dimension Catalyst
+botania.entry.dimensioncatalyst=次元の触媒
+botania.page.dimensioncatalyst0=次元の触媒は、現実世界を<br>他の2つの次元を接続する。<br>マナを使用して、現実世界<br>の資源を別次元の資材に変<br>換することができる。
+botania.page.dimensioncatalyst1=次元の触媒
 botania.page.dimensioncatalyst2=
 botania.page.dimensioncatalyst3=
 botania.page.dimensioncatalyst4=
@@ -803,7 +803,7 @@ advancement.extrabotany:achilleshieldCraft.desc=アキレウスの盾を手に�
 advancement.extrabotany:mastermanaringCraft=COLOR
 advancement.extrabotany:mastermanaringCraft.desc=極めしマナバンドを手に入れる
 advancement.extrabotany:mastermanaringFill=Fairytale,
-advancement.extrabotany:mastermanaringFill.desc=ゲームに勝つために極めたマナバンドを満たす
+advancement.extrabotany:mastermanaringFill.desc=極めしマナバンドを満たす
 advancement.extrabotany:musicAll=千本桜
 advancement.extrabotany:musicAll.desc=辛抱強く耳を傾ける
 advancement.extrabotany:armorsetCos=cat's dance
@@ -811,7 +811,7 @@ advancement.extrabotany:armorsetCos.desc=全ての星の歌姫の服を身に着
 advancement.extrabotany:armorsetCombat=Drug Of Gold
 advancement.extrabotany:armorsetCombat.desc=全てのプレアデスの戦闘メイドの服を身に着ける
 advancement.extrabotany:armorsetSW=Crazy ∞ nighT
-advancement.extrabotany:armorsetSW.desc=夜の間に全ての影武者の鎧を装備する
+advancement.extrabotany:armorsetSW.desc=夜間に全ての影武者の鎧を装備する
 advancement.extrabotany:airshipMaxheight=Slowly sky
 advancement.extrabotany:airshipMaxheight.desc=テラスチールの飛行船を200m以上運転する
 advancement.extrabotany:infinitewineCraft=shake it!
