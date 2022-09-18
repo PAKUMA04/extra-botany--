@@ -1,4 +1,4 @@
-botania.knowledge.dream=&6夢&7の知識
+botania.knowledge.dream=&6夢の&7知識
 
 botania.brew.revolution=革命
 botania.brew.shell=亀の甲羅
@@ -434,11 +434,11 @@ botania.page.deathring1=Do not fear power... fear those who wield it!
 botania.tagline.deathring=永遠の狩りが始まった。
 
 botania.entry.hammer=ハンマー
-botania.page.hammer0=ハンマーはリビングロックの<BR>台座に対して使用する。<BR>これらはツルハシのように<BR>使うことができ、&4マナ&0を消<BR>費して耐久値を回復するこ<BR>とができる。<BR>ハンマーをディスペンサー<BR>に格納し、レッドストーン<BR>信号を与えることで自動で<BR>リビングロックの台座に配<BR>置されたアイテムを加工さ<BR>せることができる。
+botania.page.hammer0=ハンマーはリビングロック<br>の台座に対して使用する。<br>これらはツルハシのように<BR>使うことができ、&4マナ&0を消<BR>費して耐久値を回復するこ<BR>とができる。<BR>ハンマーをディスペンサー<BR>に格納し、レッドストーン<BR>信号を与えることで自動で<BR>リビングロックの台座に配<BR>置されたアイテムを加工さ<BR>せることができる。
 botania.page.hammer1=夢の中の中で逢った、ような...
 botania.page.hammer2=それはとっても嬉しいなって。
 botania.page.hammer3=もう、何も恐くない。
-botania.page.hammer4=アルティメットハンマーは、テラスチールのハンマーの改良版で、アップグレードすることができる。<BR>Place it in a Livingrock Pedestal and to apply upgrades. Gilded Mashed Potato - Repair Upgrade. Elementium Sword - Sharpness Upgrade. Terrasteel Hammer - Range Upgrade.
+botania.page.hammer4=アルティメットハンマーは、<br>テラスチールのハンマーの<br>改良版で、アップグレード<br>することができる。<br>リビングロックの台座にア<br>ルティメットハンマーを配<br>置することで、アップグレ<br>ードを適用できる。<br>Gilded Mashed Potato - Repair Upgrade. Elementium Sword - Sharpness Upgrade. Terrasteel Hammer - Range Upgrade.
 botania.page.hammer5=後悔なんて、あるわけない。
 botania.tagline.hammer=
 
