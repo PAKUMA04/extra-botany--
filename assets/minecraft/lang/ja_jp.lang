@@ -214,7 +214,7 @@ tile.botania:flower.reikarlily.reference=ゲームクラッシュ
 tile.botania:flower.enchantedorchid.name=エンチャンテッドオーキド
 tile.botania:flower.enchantedorchid.reference=ゲームをする時間がない
 tile.botania:flower.edelweiss.name=エーデルワイス
-tile.botania:flower.edelweiss.reference=雪だるまを作らないか？
+tile.botania:flower.edelweiss.reference=雪だるま作らない？
 tile.botania:flower.mirrowtunia.name=ミラーチュニア
 tile.botania:flower.mirrowtunia.reference=鏡よ鏡
 tile.botania:flower.necrofleur.name=ネクロフルール
@@ -231,9 +231,9 @@ itemGroup.extrabotany=ExtraBotany
 
 extrabotany.wings0=Wings: 神
 extrabotany.wings1=Wings: フランドール
-extrabotany.repairupgrade1=Repair Upgrade I
-extrabotany.repairupgrade2=Repair Upgrade II
-extrabotany.repairupgrade3=Repair Upgrade III
+extrabotany.repairupgrade1=修復強化 Ⅰ
+extrabotany.repairupgrade2=修復強化 Ⅱ
+extrabotany.repairupgrade3=修復強化 Ⅲ
 extrabotany.damageupgrade1=Sharpness Upgrade I
 extrabotany.damageupgrade2=Sharpness Upgrade II
 extrabotany.damageupgrade3=Sharpness Upgrade III
@@ -318,7 +318,7 @@ botania.tagline.stonesia=希少価値
 
 botania.entry.tinkle=ティンクルフラワー
 botania.page.tinkle0=ティンクルフラワーは、付<br>近のプレイヤーの運動エネ<br>ルギーをマナに変換する。<br>付近にリビングロックの台<br>座を設置し、ネイチャーオ<br>ーブを台座に配置すること<br>で、マナの生成量を増加さ<br>せることができる。
-botania.page.tinkle1=鐘の音と共に...貴方を探しに来たんだ。
+botania.page.tinkle1=ding dong ding dong 貴方を探しに来たんだ。
 botania.tagline.tinkle=走れ！走れ！走れ！
 
 botania.entry.bellflower=ベルフラワー
@@ -344,7 +344,7 @@ botania.tagline.manalinkium=無線送信
 botania.entry.stardustlotus=スターダストロータス
 botania.page.stardustlotus0=The Stardust Lotus uses &4Mana&0 to create a portal that teleports creatures to a specified location. Right-clicking it with a Position Reader that has a position stored will transfer that position to the Stardust Lotus. Throwing a paper onto the Stardust Lotus starts the portal creation. A circle of sparkles around the flower shows that it is ready.
 botania.page.stardustlotus1=Better than wolves.
-botania.page.stardustlotus2=A multiblock structure is needed to function.
+botania.page.stardustlotus2=必要な構造物
 botania.page.stardustlotus3=The Stardust Lotus has to be placed one above the empty middle block.
 botania.page.stardustlotus4=
 botania.tagline.stardustlotus=Directional Teleport
@@ -360,7 +360,7 @@ botania.page.edelweiss1=もしこれを読んでいるなら、読み直して�
 botania.tagline.edelweiss=ちょっと残酷
 
 botania.entry.geminiorchid=ジェミニオーキッド
-botania.page.geminiorchid0=A &1Gemini Orchid&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
+botania.page.geminiorchid0=A &1ジェミニオーキッド&0 is like a thermoelectric generator. If you place a block of lava in the corner diagonally opposite, and then place a block of water in another corner diagonally opposite, it will begin to produce mana. The higher the gap between two blocks' temperatures, the quicker mana will be generated. Since it is a passive flower, it will decay.
 botania.page.geminiorchid1=私は力の化身だ！
 botania.page.geminiorchid2=
 botania.tagline.geminiorchid=
@@ -496,7 +496,7 @@ botania.page.cocoondesire2=弱体化希望
 botania.tagline.cocoondesire=孵卵器
 
 botania.entry.combatmaid=プレアデスの戦闘メイド
-botania.page.combatmaid0=An improved version of Terrasteel Armor. The wearer will gain the ability of regeneration while wearing a full set of it. It will also clear negative effects and give the wearer super powers when empty-handed.
+botania.page.combatmaid0=テラスチールの装備の改良品。<br>プレイヤーが全てのメイド<br>服を着ている間、再生能力<br>が付与される。<br>また、悪い効果を消去し、<br>素手の間攻撃力が上昇する。
 botania.page.combatmaid1=プレアデスの戦闘メイドのホワイトブリム
 botania.page.combatmaid2=プレアデスの戦闘メイドの服
 botania.page.combatmaid3=プレアデスの戦闘メイドのスカート
@@ -546,7 +546,7 @@ botania.page.infinitewine0=Infinite Wine, that you can drink almost infinitly, i
 botania.tagline.infinitewine=バッカーノ！
 
 botania.entry.splashgrenade=聖なる手榴弾
-botania.page.splashgrenade0=When a Special-made Cocktail is crafted with Popped Chorus Fruit. You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
+botania.page.splashgrenade0=スペシャルカクテルと焼いたコーラスフルーツでクラフトできる。 You make a Holy Grenade! The Holy Grenade will deal massive damage after exploding, giving bad effects to other creatures and giving the good effects to players. <br>A perfect item, but why is it a grenade?
 botania.tagline.splashgrenade=芸術は爆発だ。
 
 botania.entry.shadowwarrior=影武者
