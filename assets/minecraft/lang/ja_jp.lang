@@ -160,7 +160,7 @@ tile.extrabotany:quantummanabuffer.name=量子マナバッファ
 tile.extrabotany:blockshadowium.name=シャドニウムブロック
 tile.extrabotany:blockphotonium.name=フォトニウムブロック
 tile.extrabotany:dimensioncatalyst.name=次元の触媒
-tile.extrabotany:chargepad.name=力の架台
+tile.extrabotany:chargepad.name=力の額縁
 
 entity.extrabotany:flowerWeapon.name=花
 entity.extrabotany:gaiaIII.name=ガイアの守護者 Ⅲ
@@ -424,7 +424,7 @@ botania.page.pedestal6=人間は自由であるように宣告されている。
 botania.tagline.pedestal=Display items
 
 botania.entry.froststar=霜の指輪
-botania.page.froststar0=The &1Frost Ring&0 freezes large areas of water and lava. It also applies slowness creatures looked at by the wearer.
+botania.page.froststar0=&1霜の指輪&0は装備すると周囲の水源と溶岩を凍らせる。また、着用者の視界に入ったMOBの動きを鈍らせる。
 botania.page.froststar1=私は惨劇の凍てつく心だ！
 botania.tagline.froststar=指一つ動かすなよ
 
